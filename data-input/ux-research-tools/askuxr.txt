@@ -1,0 +1,53 @@
+AskUXR
+A Q&A tool based on the UX Research Playbook and designed to help IBMers find information related to User Experience Research (UXR) at IBM.
+
+
+Introducing AskUXR
+AskUXR is a Q&A tool based on the UX Research Playbook and designed to help IBMers find UXR-related information in a faster and better way. Powered by watsonx, it is intended to help UXR practitioners (UX Researchers, Product Managers, Designers, etc.) with tips about UXR methods, how to use the UXR tool stack, among other things. You can access AskUXR at https://ibm.biz/ask-uxr.
+
+
+AskUXR
+Developed by the UI&E team, AskUXR is part of a broader plan of incorporating Generative AI into the UXR workflow, which includes AI-assisted analysis/synthesis and AI-powered search on unstructured historical UXR data as nexts initiatives on the roadmap. Those initiatives are based on solid GenAI guardrails under collaborative development by the UXR community.
+
+
+What you can do with AskUXR
+- Ask diverse questions about UXR methods covered in the UX Research Playbook.
+- Ask about UXR tools, and any other information on the UXR website.
+
+
+AskUXR Limitations
+- AskUXR is not a fully-fledged chatbot like ChatGPT, but rather a question and answer tool that provides chat-like responses. It doesn’t have a conversation memory, which means it won’t recognize any previous messages on the screen. Each question is an independent query on watsonx AI models.
+- AskUXR typically takes 5-7 seconds to answer low-complexity questions. However, if you ask multiple questions at once or provide additional instructions (e.g., “answer in a table format”), it will take a few more seconds for each question or instruction.
+- As with any LLM-based application, AskUXR can make mistakes (hallucinations). While we’ve applied techniques to minimize these errors, we advise you to always verify the information before acting on it.
+
+
+What’s next
+- Some items in our roadmap include better performance, fine-tuning for better accuracy, ability to save answers and more.
+- Please feel free to suggest ideas for AskUXR using our feedback form at https://airtable.com/appButViLQv4vGjfz/pagpZYRk06tX9otLV/form.
+- We are constantly improving the content and AI techniques used with AskUXR, so you can expect weekly advancements!
+
+
+AskUXR team
+AskUXR is developed and maintained by the UI&E (User Insights and Engagement) and the UX Research Transformation teams, under Karel Vredenburg’s leardership.
+AskUXR core team:
+- Carlos Rosemberg (UX Research, UX Design, AI Development)
+- Gobind Bakhshi (Development, DevOps)
+- Grishma Jena (Data experiments)
+AskUXR extended team (Content, Testing, Procurement):
+- Gord Davison
+- Shelby Lipschuetz
+- Lisa Pelletier
+- Casey Gollan
+
+
+AskUXR Frequently Asked Questions
+Does AskUXR have similar capabilities to ChatGPT? No, AskUXR is not a fluid conversation bot, even though sometimes it gives the opposite impression. It's just a Q&A tool, and it doesn't have memory, so if you ask it to recover an information that was provided in the beginning of the session it won't know.
+
+
+AskUXR Frequently Asked Questions
+Can I use AskUXR to generate research artifacts for me? AskUXR was designed for answering questions about UXR at IBM. Assistance on UX Research work such as generating research artifacts (parameter-based personas, journeys, etc) is not supported. Specific tools are being planned for that purpose in the near future.
+
+
+AskUXR Frequently Asked Questions
+How can I provide feedback to improve AskUXR? To provide a general feedback about AskUXR, please use our feedback form at https://airtable.com/appButViLQv4vGjfz/pagpZYRk06tX9otLV/form. To provide feedback about specific answers the tool is providing, please use the 👍👎 icons below each answer.
+

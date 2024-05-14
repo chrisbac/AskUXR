@@ -1,0 +1,27 @@
+UX Research Career growth and eminence
+Resources to help you grow your career at IBM, learn new skills and improve your eminence.
+
+UX Research Career growth
+Understanding IBM’s official perspective on careers, while pairing it with the skills and growth expectations from your organization is fundamental in navigating upward, laterally, and onward. Get equipped with the Design career playbook, the official guide to understanding IBM’s career framework for the design (and research) profession. Check out the resources below to find detailed information about career growth within the UX research discipline, and explore the paths to technical leadership and management within IBM UX Research.
+
+UX Research Career growth
+IBM Design careers playbook at https://ibm.biz/careerplaybook
+Career growth for the UX research discipline at https://pages.github.ibm.com/cdai-design/careers/growth-grid/
+Path to Research Design Principal at https://w3.ibm.com/w3publisher/ibmdesigncommunity/leadership/technical-leadership
+Path to UX Research management at https://w3.ibm.com/w3publisher/ibmdesigncommunity/leadership/management-leadership
+
+UX Research Career growth
+Connect to new growth opportunities by building a support network that can advise, coach, support, and advocate for you along your career journey. Learn more in the Design Mentorship Playbook, a guide on how to approach building a strong support network for your career. Check out Your Guides at IBM, a social coaching and mentoring platform, connecting IBMers willing to share expertise with IBMers wishing to expand their knowledge and skills.
+IBM Design Mentorship Playbook at https://w3.ibm.com/design/career/overview/
+Your Guides at IBM at https://yourguides.dal1a.cirrus.ibm.com/
+
+UX Research Career growth
+The ability to keep learning is a key trait of IBMers. Find courses for essential skills and earn badges in Your Learning. You can also gain experience outside of your primary role by volunteering for a stretch project. While there is not currently an official program for stretch projects, look for posts in Slack or make connections with teams doing work you’d like to learn more about. Visit Your Learning at https://yourlearning.ibm.com/
+
+
+UX Research Eminence
+IBM provides resources to grow your eminence and get recognition for your talent. The IBM Design eminence site is full of information on various ways to grow your eminence. Join the Design Eminence guild for regular updates and join the calls to hear from speakers. Explore other guilds to learn about IBM Design specialties, pursue interests, and grow your network.
+IBM Design Eminence community site at https://w3.ibm.com/w3publisher/ibmdesigncommunity/eminence
+Join the Design Eminence guild at https://ibm-casdesign.slack.com/archives/C03D17FJXCZ
+IBM Design guilds and communitiest at https://w3.ibm.com/w3publisher/ibmdesigncommunity/culture-career/design-guilds-communities
+

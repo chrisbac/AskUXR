@@ -1,0 +1,290 @@
+Gaining insight
+
+Now that you have collected your data, the next step is to extract the important insights from it. During synthesis, you examine and combine your findings to discover patterns and relationships in order to draw conclusions, or insights. These insights help ensure that teams make informed decisions in the development of products or services. 
+
+This chapter will explain what insights are and help you formulate actionable insights from qualitative and quantitative data.
+
+Gaining insight: Insights explained:
+
+An insight is an accurate and deep understanding of someone or something. This is different from a finding which is information observed or discovered during the research process. Insights build on findings by identifying a pattern, relationship or connection in the data, in the context of the user experience. Insights illustrate opportunities for impact based on the findings that could result in a positive outcome for the user.
+
+Outcomes are driven by taking action on insights. A key part of generating insights from research is to include one or more possible actions that illustrate what can be done to take an insight to an outcome. Creating actionable insights is a crucial part of the research process: analyzing and synthesizing raw data from observations into learnings and recommendations that can guide the team to better outcomes and impact. 
+
+There are many different approaches to formulating insights, however it is important to maintain separation between raw data, findings, insights, and recommendations that involve significant assumptions. By maintaining separation, we ensure that valid insights are not ignored due to invalid recommendations. 
+
+Data leads to Findings, that leads to Insights, that leads to Recommendations.
+
+
+Insights should include the following:
+
+- What you learned and why you think the findings occurred.
+- The context of the user.
+- Potential impact of the insight — see Tracking impact page (https://pages.github.ibm.com/reops/ux-research/research-practice-playbook/track).
+For example: Data quality in X system is not trusted or utilized by teams to make decisions. This is being driven by KPIs that incentivize individuals to input high volumes of data without checks. As a result, there is time wasted inputting data that is not used (estimated to be X hours per annum) and uptake of X system is limited (fewer than X% make decisions using the tool). 
+
+Important: Including the potential impact of the insight makes it easier to prioritize and action findings. It is worth taking the time to estimate the impact or suggest further research to quantify it.
+
+Gaining Insight: Qualitative data:
+
+The steps to generate insights from qualitative data are:
+1. Structuring data
+2. Finding themes
+3. Tagging and coding
+4. Synthesizing insights
+
+
+Gaining Insight: Qualitative data: 
+
+Structuring data:
+Researchers collect audio and video recordings, transcripts, notes, documents or photos during sessions. Once the research has been conducted it is best practice to organize the research data prior to beginning analysis and synthesis. Transcripts are frequently used to help speed up the process of pulling quotes for a deliverable and for referencing raw data in the future. The more organized you are with your data, the easier it is to get through the analysis and synthesis phase. 
+
+For interviews, while taking notes or shortly after the interview, highlight important thoughts and themes while they are fresh in your mind. This is especially important if they seem to come up frequently in the interviews. This will help you discover patterns more easily in the next step.
+
+Gaining Insight: Qualitative data: Finding themes:
+After you’ve got your data organized, it’s important to begin to find themes. One good way to do this is with an affinity diagram which helps you to cluster and organize your information into categories so you can identify emerging themes. If you feel like you have identified a handful of themes and cannot decide which ones to bring forward, you can use a method such as dot voting and involve your team to pinpoint the most relevant ideas.
+Depending upon the method, you don’t have to wait until a study is over to start analyzing data. Doing data analysis in parallel with conducting research can save you time. The first impressions gathered from the team after each session are usually the first input for synthesis. Keep these notes in a consistent format. The benefit of starting analysis early is that it helps with recognizing themes and outliers as they emerge. The challenge with this is that your team might base decisions on these early findings. Always set the right expectations and include appropriate disclaimer information when sharing your early findings so teams don’t take action prematurely.
+If you have identified a lot of themes in this step, try to go back to your research plan and identify which are truly relevant for this project. You can always suggest putting those which are important but less relevant in the backlog for future reference.
+
+Gaining Insight: Qualitative data: Tagging and coding:
+If you deal with large amounts of data, that can quickly become overwhelming to analyze, coding (or tagging) is a fantastic method to turn your qualitative data into quantitative data as it helps to extract findings from the data in a structured way. A code or tag is a label that describes the content or basic theme of a finding (for example, “uncertainty” or “self-actualization”). Codes help you to cluster findings with a common theme.
+There are two possible approaches to coding, deductive and inductive. Deductive coding is often used when you know in advance what topics you are looking for, so you develop your codes before the analysis (sometimes even before the interviews). In inductive coding, you develop your codes during the analysis. Use both approaches if you have the resources to do so. You can develop codes upfront, based on your hypothesis and questions and let your dataset reveal more during the analysis.
+Be outcome-oriented in your analysis so you don’t become stuck in analysis-paralysis. Leveraging activities such as affinity diagramming, dote voting or as-is scenario maps can make analysis collaborative often leading to increased buy-in of research findings.
+The following are tools commonly used to structure learnings and insights from your study together into a cohesive, consumable story:
+
+Method: Customer/As-is journey map
+How to conduct: https://www.ibm.com/design/thinking/page/toolkit/activity/as-is-scenario-map
+Benefit: Bring together the story you heard from users and build context based on your evidence.
+
+Method: Personas
+How to conduct: Persona playbook - example Sustainability (https://ibm.box.com/s/u2a69ogeybyax7ndhep9fdrnz8knsg2v)
+Benefit: Aggregates and summarizes research to represent a group (e.g. a user, a buyer). The process and best practices for creating and maintaining personas are outlined in the persona playbook.
+
+Method: Service blueprint
+How to conduct: https://ibm.box.com/s/84krd4rzob5lvis2g62oau0ph85uwo0a
+Benefit: Understanding processes ‘behind the scenes’ and how they impact the customer/user experience.
+
+Method: Experience map
+How to conduct: https://www.questionpro.com/blog/experience-map/#:~:text=An%20experience%20map%20is%20a,understand%20human%20behavior%20in%20general
+Benefit: Understanding the user experience, highlighting pain and delight points.
+
+Method: Empathy map
+How to conduct: https://www.ibm.com/design/thinking/page/toolkit/activity/empathy-map
+Benefit: Builds understanding of users from research or collective team knowledge. This is particularly useful when you don’t have access to sponsor users.
+
+Method: Ecosystem map
+How to conduct: https://conceptshacked.com/guide-to-make-a-systems-map/
+Benefit: Visualizing complex ecosystems and relationships.
+
+
+Gaining Insight: Qualitative data: 
+
+Synthesizing insights:
+Synthesis is a crucial part of the research process that brings together themes to ensure that they are actionable. There are many approaches to gaining deep insights, however some easy starting points are detailed below. 
+
+Synthesizing insights: Patterns and anti-patterns:
+Explore your themes in more detail, looking for patterns as well as antipatterns (cases that stand out or are different). Patterns can help bring themes together. Codes, as well as visually tagging your data if using a tool like mural or physical sticky notes, can help highlight underlying patterns and potential root causes. In contrast, anti-patterns can also be important in understanding extreme users and their needs, looking at problems or opportunities from a different angle. It can be helpful to highlight outliers and analyze the cases in more detail.
+
+Synthesizing insights: Understanding the “why”:
+Seek to understand the rationale behind the themes and patterns so that you don’t advise teams to spend time fixing symptoms rather than the root cause of the problem. There are several tools shown below which can be used by the team involved in the research to search for root causes and gain deeper insights:
+
+Method: Why-how laddering
+How to conduct: https://dschool-old.stanford.edu/groups/k12/wiki/afdc3/HowWhy_Laddering.html
+Benefit: Start to identify abstract concepts and then deconstruct them by asking “why” and “how” for a particular observation. Climb up (‘why?’) and down (‘how?’) in branches to flesh out a set of needs for your user.
+
+Method: Nine windows
+How to conduct: https://asq.org/quality-resources/nine-windows
+Benefit: Explore issues a user is facing and their potential impacts by examining the past, present, and future of both high-level areas and their related subsections.
+
+Method: Jobs-to-be-done (JTBD)
+How to conduct: https://app.mural.co/invitation/mural/wscdesign4598/1597944288596?sender=tcjoshuafan4656&key=09fd5daf-8ffc-4add-a682-113061d4144f
+Benefit: Develop outcome statements to help product teams focus on what users are trying to accomplish.
+
+Method: Contrast tables
+How to conduct: https://www.rev.com/blog/transcription-blog/analyze-interview-transcripts-in-qualitative-research
+Benefit: Identify patterns (and anti-patterns) to gain deeper insights.
+
+Method: Ishikawa (fishbone) diagram
+How to conduct: https://medium.com/globant/fishbone-diagrams-7c56ccaf06ba#:~:text=Summary,causes%20of%20a%20specific%20event
+Benefit: Ensure that deeper problems are addressed with this root cause analysis tool.
+
+Method: 5 why’s
+How to conduct: https://kanbanize.com/lean-management/improvement/5-whys-analysis-tool
+Benefit: Ensure that deeper problems are addressed with this root cause analysis tool.
+
+Method: Crazy 8s
+How to conduct: https://alvinhermanto.medium.com/crazy-8s-what-why-and-how-to-run-it-remotely-bf9bcdc416de
+Benefit: Make sure that your insights are actionable using this ideation technique that removes overthinking, in the hope of unlocking your subconscious. The technique involves sketching 8 solutions in 8 minutes, allowing 1 minute for each iteration.
+
+One important final step in the synthesis process is to revisit the original research questions and/or hypotheses in order to reflect on the answers compared with what you set out to find:
+- Is there anything contradictory in the data?
+- Does the data support the initial assumptions?
+- Is there new knowledge and/or understanding that will impact design/business decisions?
+- Celebrate all findings! It’s ok if not all your hypotheses are supported, call it out anyway. That’s why we do research.
+
+Playback your insights to your research participants or SMEs where possible to test the validity of your insights. Peer reviews are another great way of seeing if there are other perspectives or explanations to be considered.
+
+Want to learn more about qualitative analysis and synthesis? Check out the links in the Resources section at the bottom of the page.
+
+Gaining Insight: Quantitative data:
+
+The steps to generate insights from quantitative data are:
+1. Structuring data
+2. Finding themes
+3. Synthesizing insights
+
+Gaining Insight: Quantitative data: Structuring data:
+To structure data for research, you need to clean data, maerge data sets, and transform the data.
+
+Cleaning data:
+During the data cleaning process, several common steps can be followed. First, it is essential to examine the range of all numeric data points and identify outliers. Assess the impact of outliers on your analysis and consider appropriate strategies such as removing outliers, analyzing them separately. Second, it is important to identify missing data and determine the appropriate technique to handle these missing values such as removal or imputation using averages. Third, when dealing with text data, you can identify problematic entries by observing nonsensical text in open fields. This might indicate a lack of engagement from respondents. 
+
+Merging data sets:
+If multiple datasets are available, the next step involves merging them to create a unified dataset for analysis. It is necessary to identify common variables that serve as the linking keys between the datasets. After the merge operation, it is important to thoroughly review the merged dataset to ensure that the merge process was successful. Check for any unexpected changes in the data, missing values, or duplicates. 
+
+Transforming data:
+Data transformation (e.g. creating categories) involves modifying the original data to meet certain requirements necessary for analysis. This can involve normalizing skewed distributions, or standardizing variables to ensure they are on a comparable scale.
+
+Gaining Insight: Quantitative data: Finding Themes:
+
+Descriptive statistics:
+Descriptive statistics are used to describe and summarize the key characteristics of a dataset. These statistics provide insights into the central tendency, variability, and distribution of the data. Descriptive statistics do not make any assumptions or inferences about the population from which the data is drawn. They only describe what is observed in the sample. Descriptive statistics commonly used by UX researchers include mean, median, standard deviation, frequency, and percentiles. You’ll find helpful links in Resources for decriptive statistics, below.
+
+Initial visualizations:
+While some like starting with the numbers and moving to visualizations later, it can also be a great starting point to use visualizations to understand the data before going back to validate if relationships and differences are meaningful. Below are some common charts used for visualizing quantitative data.
+
+Chart: Bar/Column chart
+What it’s good for: Comparing discrete data or showing trends over time.
+
+Chart: Line chart
+What it’s good for: Visualizing trends with 3 or more data points. Time series data with more than 2 data points.
+
+Chart: Quadrant chart
+What it’s good for: Showing relationships between 2 (or 3) variables. For example, current performance vs. importance.
+
+Chart: Spider/Radar chart
+What it’s good for: Comparing characteristics where you are measuring more than 3 characteristics.
+
+Chart: Scatterplot
+What it’s good for: Visualizing data relationships and segmentation.
+
+Chart: Funnel chart
+What it’s good for: Visualizing conversions.
+
+Chart: Sankey diagram
+What it’s good for: Showing data flows, such as user journeys.
+
+Chart: Stacked column/Bar charts
+What it’s good for: Comparing breakdown of responses (e.g., disagree vs. agree) and differences across questions.
+
+Chart: Pie/Donut chart
+What it’s good for: Creating stacked line/bar charts but with circles! Great for single select responses to questions and individual data points but limited in ease of comparison for trackers.
+
+Gaining Insight: Quantitative data: Synthesizing insights:
+
+The steps to sinthesize insights from quantitative data include:
+1. Identifying patterns with inferential statistics
+2. Exploring differences
+3. Exploring relationships
+4. Visualizing insights
+5. Acknowledging limitations
+
+Quantitative data: Synthesizing insights: Identifying patterns with inferential statistics:
+Similar to qualitative analysis, a good starting point in the synthesis process is to identify any patterns (or relationships) or differences in the data. This is often driven by inferential statistics. 
+Inferential statistics are used to make conclusions or inferences about a population based on a representative sample. They help you test hypotheses, compare groups, and estimate relationships between variables. They help you to learn whether an observed relationship is likely to be a real effect as opposed to a random occurrence. See general guideline for choosing a statistical analysis in Resources, below.
+
+Quantitative data: Synthesizing insights: Exploring differences:
+Look for differences over time and categories (demographics, segments etc.). In doing so it’s important to see if the differences are significant. Significance testing is a way of rejecting a null hypothesis (in our case that the numbers are the same).
+
+The following table shows statistical methods to explore the significance of differences.
+
+Test: ANOVA
+What it does: Compares the difference between three or more groups assuming normal distribution.
+When to use it: Analysis of Variance is used when there is a single dependent variable.
+
+Test: MANOVA
+What it does: Test the impact of independent variable(s) on two or more dependent variables assuming normal distribution.
+When to use it: Multivariate Analysis of Variance is used where there are multiple variables.
+
+Test: t-Test
+What it does: Compares the means of two groups, assuming normal distribution.
+When to use it: t-Tests are limited to two groups and used when you don’t know the population mean or variance.
+
+Test: z-Test
+What it does: Helps to validate that the sample belongs to the same population.
+When to use it: z-Tests are used when you know the population mean and variance.
+
+Test: Non-Parametric Tests (e.g., Chi-square test, Mann-Whitney test, Kruskal-Wallis test, Spearman Rank Correlation)
+What it does: Non-parametric tests are used when your sample violates the normality assumption.
+
+Quantitative data: Synthesizing insights: Exploring relationships:
+It can also be useful to explore relationships between variables. For instance, how attitudes or sentiment may correlate with more behavioral metrics.
+
+Analysis technique: Correlations
+What it does: Correlations are used to identify relationships in the data. Correlations should not be used to imply causation.
+Link: https://www.statisticshowto.com/probability-and-statistics/correlation-coefficient-formula/
+
+Analysis technique: Driver analysis
+What it does: Conducted using regressions, driver analysis can be used to explore which elements of the customer experience have the most impact on outcomes such as overall satisfaction, NPS, and retention.
+Link: Driver https://www.qresearchsoftware.com/market-research-guide-advanced-data-analysis
+
+Analysis technique: Segmentation
+What it does: Typically conducted using cluster or latent class analysis, segmentation is the grouping of similar responses to allow for better understanding of distinct customer segments.
+Link: https://blog.hubspot.com/service/customer-segmentation
+
+Quantitative data: Synthesizing insights: Visualizing insights:
+Visualizing the data is an important step in synthesizing insights. Think quadrant maps, line and bar charts etc. You can find links to examples in the Resources section below.
+
+Quantitative data: Synthesizing insights: Acknowledging limitations:
+Data can only tell us so much; it can be easy to fall into the trap of adding interpretations that are not supported by data such as implying causation from a strong correlation (correlation is not causation).
+
+Always look out for small sample sizes, changes in methodology or demographics for trackers and differences that look large but aren’t significant (ensure you call this out so that your audience doesn’t jump to conclusions).
+
+Consider the reliability and validity of your insights. Always think critically and reflect on potential limitations of your research.
+
+Gaining Insights: Learning resources: Insights:
+- Introduction to insights (https://ibm.box.com/s/305id7myhqqwp3c2bedhorbgt9m1jgka)
+- Actionable insights (https://ibm.box.com/s/59c3zmbpu4qqmpfxmax08aro1jj2mx9z)
+- Atomic research (https://blog.prototypr.io/what-is-atomic-research-e5d9fbc1285c)
+- Learning & Inspiring through Insight (Video) (https://ibm.box.com/s/lbv8vff5nya77lxdgcx5gbnbrjc5d047)
+- Learning & Inspiring through Insight (PDF) (https://ibm.box.com/s/lbv8vff5nya77lxdgcx5gbnbrjc5d047)
+
+Gaining Insights: Learning resources: Qualitative analysis and synthesis:
+
+- Qualitative analysis for interviews (https://ibm.box.com/s/gn1obt0qgwcrmwtjuh3m5boiv3ocvvzg)
+- User journey mapping (https://ibm.box.com/s/5run3th67klkzu1e0wpmax3ectkshadk)
+- Service blueprints 101 (https://ibm.box.com/s/84krd4rzob5lvis2g62oau0ph85uwo0a)
+- Introduction to Personas (https://ibm.box.com/s/47axjut4skjxjg54pbpe1a98yq41j2bh)
+- Minimum viable research guide (https://ibm.box.com/s/ottthp0jfoiug3ciug89af37kf3vxdlw)
+- Using tables in qualitative research (https://journals.sagepub.com/doi/10.1177/1476127020979329)
+- Best practices for qualitative research (https://aci.health.nsw.gov.au/__data/assets/pdf_file/0006/660867/ACI-qualitative-analysis-of-research.pdf)
+- Getting started with EnjoyHQ (https://pages.github.ibm.com/reops/ux-research/ux-research-tools/enjoyhq)
+- Persona playbook (https://ibm.box.com/s/u2a69ogeybyax7ndhep9fdrnz8knsg2v)
+- AC4D affinity diagramming (https://ibm.box.com/s/40xqkr123cj6f03igk70egbfxsp5hpee)
+- Analysis template — Mural (https://app.mural.co/invitation/mural/ibm14/1688119967986?sender=u37ff4857da96bdf2a6998632&key=e4ab20ac-addc-4b74-9920-aa3c1aa1d129)
+
+Gaining Insights: Learning resources: Quantitative analysis:
+- Bayesian AB tests (https://ibm.box.com/s/rw6580iuyk8wd46jokxzkgqs31wvwag7)
+- Behavioral analytics (https://ibm.box.com/s/c29eaom09hhwph3ag3rdnr6rdq7ry4jp)
+- Card sort analysis template (https://ibm.box.com/s/23q350i1ulnafn75avckkyiih9o3ckoc)
+- Chart types (https://www.ibm.com/docs/en/cognos-analytics/11.0.0?topic=charts-chart-types#cr_rptstd_chrts_appndx_chart_types_appendix)
+- Driver analysis (https://wiki.q-researchsoftware.com/wiki/Driver_(Importance)_Analysis#:~:text=Driver%20analysis%20computes%20an%20estimate,this%20brand%20(or%20brands).)
+- Excel hacks for researchers (https://ibm.box.com/s/9ph2314jod4e6q95mv7k1slrjkm853xr)
+- Frequentist AB tests (https://ibm.box.com/s/7atfmg7vg10gz2kjjh4co2bsucbmlvaf)
+- Introduction to card sorting (https://ibm.box.com/s/stnp5g3whhp98a1fjuulxl70wag4nhvr)
+- Minimum viable research guide (https://ibm.box.com/s/ottthp0jfoiug3ciug89af37kf3vxdlw)
+- Quantifying the User Experience, 2nd Edition (https://learning.oreilly.com/library/view/quantifying-the-user/9780128025482/B9780128023082000023/B9780128023082000023.xhtml#st0040)
+- Survey data cleaning by Alchemer (https://help.alchemer.com/help/data-cleaning)
+- When to use each descriptive statistical analysis (https://www.qualtrics.com/experience-management/research/descriptive-research/)
+- Alchemer includes a number of descriptive statistics that can be included in the report (https://help.alchemer.com/help/standard-report-available-statistics)
+- Alchemer survey data cleaning guide (https://help.alchemer.com/help/data-cleaning)
+- General guideline for choosing a statistical analysis (https://stats.oarc.ucla.edu/other/mult-pkg/whatstat/)
+- How to summarize and display survey data (https://measuringu.com/summarize-survey/)
+- 10 best practices for graphing and displaying data (https://measuringu.com/graphing-displaying-data/)
+
+Gaining Insights: Learning resources: Quantitative tools:
+- Alchemer
+- Amplitude
+- Excel
+- R
+- SPSS
+- Instructions for getting access to quantitative analysis tools (https://ibm.box.com/s/grctl65x2xb7feyc8vigqdhvk04nilkm)

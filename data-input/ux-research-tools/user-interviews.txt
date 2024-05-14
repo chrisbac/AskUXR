@@ -1,0 +1,63 @@
+User Interviews
+User Interviews is a resource to quickly recruit research participants from a variety of target audiences with panel of over 2 million research participants from a variety of industries.
+Learn more at User Interviews at https://www.userinterviews.com/
+
+
+User Interviews Overview
+User Interviews allows researchers to easily recruit and communicate with participants, schedule interviews, collect consent forms, and distribute incentives (if applicable) on the same platform within days. It is a great tool if you don’t need IBM product users for your research study, and if you want to target participants who use a competitor product. User Interviews is an additional sourcing option to Respondent.io.
+
+
+Getting started
+Step 1: Fill out the tool access request form at https://airtable.com/shrx4AkfUCbhLxNd1 for requests within Software. You’ll receive an email invite once your request is processed. Not in IBM Software+Cloud? Contact your manager for team specific guidance.
+Step 2: Log in at https://www.userinterviews.com/accounts/signin. This account is not single-sign-on enabled, you need to create an account with your IBM email address and a password.
+Step 3: Check out these resources to get started.
+Build a project: https://www.userinterviews.com/support-topic/building-a-project
+Manage a project: https://www.userinterviews.com/support-topic/managing-projects
+
+
+User Interview Best practices
+Here is basic guidance and a few things to consider as you get started with User Interviews:
+
+
+User Interview Best practices: Create a project
+Everything in User Interviews centers around projects. In order to start inviting participants, you must create a project. A project is your central source of truth for managing participants for your research study. When creating a project you need to decide what type of audience you are looking to recruit: consumers or professionals
+There’s virtually no difference in the overall project builder when you select this option. You’re still able to create a screener survey and everything else. The difference comes in the “characteristics” section, where you’re able to select more options in the “professional characteristics” section.
+It’s best to always select professional so that you get all of these options.
+The characteristics section on User Interviews helps them decide who to send your screener surveys to.
+"How to launch a project" at https://www.userinterviews.com/support/launching-a-project
+New here? Best practices to keep in mind at https://www.userinterviews.com/support/new-researcher
+
+
+User Interview Best practices: Recruit participants
+You can find participants in two different ways. Directly in your project, or in the recruit participants page.
+- Directly from your research project: This is the most common way to recruit participants from the User Interviews’ participant panel. Select participant characteristics, create a screener, and launch your project. User Interviews then finds participants on their end to invite to your project. This method happens by default and involves less searching on your part.
+- From to the “recruit participants” page: Perhaps it’s been a few days since you have launched your project and you don’t have the number of participants you’d like to see or you may decide that you don’t want to wait around for User Interviews to find participants for you. If that is the case, you can view all the participants that IBM Software has recruited in the past for research projects. If a participant meets you recruiting criteria, you can select the checkbox by their name and invite them to your project.
+User Interviews guidance at https://www.userinterviews.com/support-topic/our-panel
+
+
+User Interview Best practices: Screen participants
+Regardless of project type, User Interviews allows you to build fairly robust screeners to help you find the participants you need. If you don’t want to start from scratch, you can copy screeners from existing projects from other researchers to use as a starting point. For more guidance on building a screener survey, check out these best practices and common mistakes to avoid: 
+"What are best practices for building a screener survey?" at https://www.userinterviews.com/support/creating-my-screener-survey
+"Common screener survey mistakes and how to fix them" at https://www.userinterviews.com/blog/seven-common-screener-survey-mistakes-and-how-to-fix-them
+
+
+User Interview Best practices: Schedule sessions
+After selecting the number of participants you’d like to book for your study, you can decide if you want to manually select your participants or automatically allow them to book sessions with you. Add in the time slots that you’re available for your participants to book. After a participant is approved for your study, they’re able to book a time slot based on the time slots you provide. Be sure you keep this schedule updated with current times.
+Approving and scheduling participants at https://www.userinterviews.com/support-topic/reviewing-approving-scheduling-participants
+
+
+User Interview Best practices: Distribute incentives
+Incentives in User Interviews can be distributed from a prepaid balance account which is provisioned within the IBM Software User Interviews account.
+When you initially configure your project, in the “session details” screen you will have the option to define how the incentive is distributed. Selecting “User Interviews will automatically distribute incentives via participant’s choice of digital gifcards”  then on the last step to launch a project, select “prepaid balance”. Note: Once you launch your project, this cannot be changed. read "What incentive and currency options are available to participants?" at https://www.userinterviews.com/support/incentive-and-currency-options
+
+
+User Interview Learning and support
+Explore the following resources to learn more about User Interviews:
+User Interviews best practices—our panel at https://www.userinterviews.com/support-topic/our-panel
+User Interviews user research tips at https://www.userinterviews.com/support-topic/about-user-research
+General questions at https://www.userinterviews.com/support-topic/general-overview
+User Interviews researcher resources at https://www.userinterviews.com/support-category/researcher-resourcesh
+
+
+User Interviews support Jennifer Pecoraro: jen@userinterviews.com
+Designated support for recruiting: projects@userinterviews.com

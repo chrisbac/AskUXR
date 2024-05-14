@@ -1,0 +1,54 @@
+Scoping research
+
+Scoping, sometimes called “pre-planning” is the process of understanding the problem space and its respective research need(s), developing research objectives, identifying questions, and prioritizing those efforts into a research program.
+
+The steps to scope research include:
+1. Understanding the problem space and the research needs
+2. Develop research objectives
+3. Prioritize actionable research questions
+4. Align with stakeholders
+
+The way you enter a problem space can dictate how you go about scoping. For example, you might join a product team during early stages of product development. Or, you might be consulting on research for a specific need. Alternatively, your team may have a UX research lead who conducts scoping and assigns projects. This guide will serve you regardless of the situation.
+
+Scoping research, Step 1: Understanding your problem space and the research needs:
+
+The first step in scoping is to understand your problem space and the research needs. These might sound like two separate steps but think of it as iterating between understanding the problems and translating those into research needs. Understanding your problem space starts with an intake. UX researchers work closely with Product Management, Engineering, and Design colleagues. Researchers must ensure a regular cadence of communication with these disciplines to discuss product and research priorities. By engaging with stakeholders, you can identify the needs and begin to elicit requirements or identify gaps, and gather assumptions. You can complement this intake with project documentation. It’s important to get a sense of what is known and unknown. You can build your sense for the needs and opportunities by using additional resources. Review existing research done at IBM or even outside of IBM through market research firms. Sometimes the request for research may be defined by research leadership, the research manager or the product manager. Sometimes you may be starting from scratch where research has not been an official step in the process, with no dedicated researchers in the product team. In any case, the first step in starting research is to investigate, question and understand what the team needs to know to make decision that would bring value to the product and its users. Before getting started on any new primary research you will want to leverage information that already exists. This is often included in the plan as the secondary or preliminary phase. Check out the guidance on how to conduct secondary research in the templates and examples section for more details, and find more content in the next section on Planning. This is an important step in that yields more complete and accurate research. 
+
+Scoping research, Step 2: Develop research objectives:
+
+You’ve spoken to stakeholders. You know what keeps them up at night and you have begun to understand the problem spaces by investigating other sources. Now it’s time to develop research objectives, goals, and questions from the research needs that you identified. If you’re not familiar with this process, we suggest that you treat this like an ideation exercise. Consider all possible research questions that if answered, could help solve the problem or would address the research need. You can return to Understanding to determine which questions have been answered already. Then, use the Prioritization step to converge onto the most important, most impactful, and most practical questions to answer.
+
+Scoping research, Step 3: Prioritize actionable research questions:
+
+Prioritizing actionable research questions is the core of strategically planning a research program. This is where you decide which problems to address through which research questions, and when to answer them. To do this, you need a sense of:
+
+1. The impact of the research which includes considering buy-in from stakeholders, their support in the research, and their willingness to incorporate your recommendations or insight into their product decisions.
+2. The methods available to you to answer the research questions. This will also be shaped by the timeline you have to best integrate with UX and agile workflows. When assessing the timeline and which research you can do, also consider if you have access to the participant sample you need and how long it might take to have access to them.
+
+To help guide you through this process, answer the following questions.
+
+1. What will this research inform? (i.e. Hills, offering roadmap, design improvements)
+2. What type of research is this project - generative, exploratory, benchmarking?
+3. Who is responsible for managing the research project? (e.g. UX researcher, designer, PM)
+4. Does the team have capacity to support research by providing prototypes, attending research sessions and post-session debriefs, participating in synthesis?
+5. When does the team need to have answers to this question — “What happens if that deadline is missed?”
+6. Do you have access to participants for research?
+
+It also helps to be aware of UX research frameworks which help you prioritize research. You can find some examples in the resources below.
+
+Scoping research, Step 4: Align with stakeholders
+
+Once you have prioritized research projects or studies within the problem space, it’s time to share it with your stakeholders for alignment. Your work in the previous step was just a draft. UX Researchers work directly with their Product Manager, Design Lead, and UX Research Manager on prioritizing research studies for a product. This can be in the form of a roadmap, Gantt chart, or simple categorization of what research will focus on.
+
+Templates and examples for scoping research:
+1. Problem to research question example draft (https://ibm.box.com/s/gb6q9mpza56fto81tapgseq1fgft64n3)
+2. Example of a presentation showing prioritized research spaces for AI Governance across three Cloud Pak for Data Services (https://ibm.box.com/s/fni8jntt3l57x1wso0bgktxyigv6gmzz)
+3. Enterprise Design Thinking prioritization grid (https://www.ibm.com/design/thinking/page/toolkit/activity/prioritization)
+4. Questions and Assumptions activity — Mural template (https://www.ibm.com/design/thinking/page/toolkit/activity/assumptions-and-questions)
+
+Resources for scoping research:
+1. Conducting secondary research (with resources links) (https://ibm.box.com/s/px5ucstigzaoo4rxk3rg481cv879w1o4)
+2. Gitlab - Crafting actionable research questions (https://about.gitlab.com/handbook/product/ux/ux-research/defining-goals-objectives-and-hypotheses/)
+3. RICE for roadmapping and other prioritization methods (https://www.nngroup.com/articles/prioritization-methods/)
+4. Gap analysis guide (https://odettejansen.medium.com/gap-analysis-d85603e8eadf)
+5. Try out a Pendo framework for prioritizing your research (https://www.pendo.io/pendo-blog/a-tried-and-true-framework-for-prioritizing-user-research/)

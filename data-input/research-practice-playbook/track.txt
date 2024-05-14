@@ -1,0 +1,276 @@
+Tracking impact
+
+We do research because it adds value for our users as well as IBM and, in the case of Consulting, our clients. Tracking impact is not always easy, and is an important factor to consider when initially planning research not only to show growth and improvements but also to de-risk new product innovations and strategies.
+
+Getting started
+The information on this page will help guide you in understanding what value means in your context and provide some common metrics that can be used to track research impact.
+The following processes can be used to help guide how you track impact:
+Understand and prioritize value levers and metrics
+- Set and agree upon benchmarks
+- Measure impact
+- Record and communicate findings
+
+It’s important to note the limitations of metrics, particularly in understanding reasons for movement. A mixed-methods approach (combining quantitative and qualitative insights) can help to form a deeper understanding of impacts and results.
+
+Tracking impact: Understanding value and metrics:
+
+The metrics that we are responsible for as UX researchers often impact higher level success metrics for organizations. Value trees are a great way of understanding how your metrics fit into broader organizational goals and can help prioritize work as well as ensure that you are focusing on the most important metrics. Create a value tree as early as possible and review it regularly with your decision makers to ensure alignment. This is a common practice in Consulting, and can benefit any researcher in the organization. This should be done at a team or product level to avoid duplication of work and misalignment so it is best to discuss with your manager or team lead prior to creating a value tree.
+
+Understanding value and metrics: How to create a value tree:
+
+1. Work with your decision makers to agree on value drivers, value levers and key metrics:
+
+Value tree (top to bottom): Value pool
+Description: These are strategic business objectives that help to give context to the value drivers.
+Example: Growth - OPEX (operating expenditure) - Sustainability
+
+Value tree (top to bottom): Value driver
+Description: Desired outcomes that are attached to a strategic objective.
+Example: Number of customers - value of customers
+
+Value tree (top to bottom): Value lever
+Description: How we are going to impact the value driver.
+Example: Customer Retention - new customers
+
+Value tree (top to bottom): Key metrics
+Description: How we are going to benchmark and measure change — considering leading and lagging metrics.
+Example: Monthly retention rate - # of customers lost - likelihood to purchase again
+
+2. Prioritize at a high level — what do your decision makers care the most about?
+
+3. Continue to refine and add to your value tree — priorities change and so should your tree.
+
+Important: Consider a mix of leading and lagging metrics when creating your value tree.
+
+Tracking impact: How we define impact:
+
+Tracking research impact can be complex and mean different things to different parts of the business as well as to different roles. To provide consistency and structure, key metrics have been grouped using the following categories:
+
+How we define impact: Business and product impact:
+This category includes user experience, growth and operational efficiency. Examples of metrics include customer satisfaction scores, revenue and time on task.
+
+How we define impact: Team impact:
+This category includes UX research team efficiency and productivity, demand and buy-in for research and UX research maturity. Examples of metrics include the number of recommendations actioned, net promoter scores and utilization of templates.
+
+Tracking impact: Business and product impact:
+
+Business and product impact: User experience
+
+The user experience has a direct correlation to product and business performance. The metrics mentioned below can be used to track any impacts to the user experience.
+
+Metric: D&UX
+Description: Design and user experience assessments that use IBM experience standards to provide consistency in experience quality.
+Additional information: https://pages.github.ibm.com/cdai-design/dux/
+
+Metric: Behavioral metrics
+Description: These metrics measure how users behave while interacting with a product or service.
+
+Metric: Click-through rate (CTR)
+Description: Percentage of users who click a specific link or button.
+Additional information: CTR = (number of clicks / number of impressions) x 100%
+
+Metric: Time on task
+Description: Provides insights into the time taken on successful completion of a pre-defined task.
+Additional information: Time on task = time task completed – time task started
+
+Metric: Task success rate
+Description: Percentage of correctly completed tasks (with a clearly defined endpoint) by users.
+Additional information: Task success rate = number of successful completions / total number of attempts
+
+Metric: Bounce rate
+Description: Percentage of users who leave a website or application after viewing only one page.
+Additional information: Bounce rate = (number of single-page sessions / total sessions) x 100%
+
+Metric: Attitudinal metrics
+Description: These metrics measure how users feel about a product or service. They provide insight into users’ perceptions, attitudes, and opinions.
+
+Metric: Net promoter score (NPS)
+Description: Gives insights into customer satisfaction and loyalty by measuring the likelihood of a user recommending the product or service to others.
+Additional information: NPS = % of promoters — % of detractors. Can range from -100 to 100
+
+Metric: Customer satisfaction (CSAT)
+Description: Expresses customer satisfaction.
+Additional information: CSAT = (number of satisfied customers / total number of customers surveyed) x 100%
+
+Metric: System usability scale (SUS)
+Description: A tool that consists of 10 statements to which users rate their level of agreement on a five-point scale.
+Additional information: SUS score = (sum of all scores * 2.5) / 10
+
+Metric: User effort score (UES)
+Description: Measures the effort to complete a pre-determined task or goal within a product or service.
+
+Metric: Single ease question (SEQ)
+Description: Measures the effort to complete a pre-determined task or goal within a product or service.
+
+Metric: UMUX-Lite
+Description: Usability metric for user experience. A two-item alternative to SUS.
+Additional information: Overview of UMUX-Lite at https://measuringu.com/umux-lite/, Taxonomy at https://measuringu.com/taxonomy-ux-research-methods/
+
+Metric: Customer support related
+Description: Metrics related to customer support.
+
+Metric: Customer support mentions
+Description: Total number of tickets/mentions to the customer support team over an agreed period of time.
+
+Metric: Experience issues management (EIM) - Issues identified
+Description: Number of top support issues identified.
+
+Metric: Experience issues management (EIM) - Issues resolved
+Description: Decrease in customer support questions about functionality.
+
+Business and product impact: Growth:
+
+Growth metrics measure the extent to which UX research impacts business expansion. These metrics help demonstrate the value of UX investments (including UXR) and provide insight into the ROI of UX initiatives. By measuring these, businesses can quantify the impact of UX improvements and ensure that UX investments are aligned with business goals, de-risking new product innovations and strategies.
+
+Metric: Revenue
+Description: Total amount earned through the sales of products/services.
+
+Metric: Conversion rate
+Description: Percentage of users who take a desired action, such as making a purchase or filling out a form.
+Additional information: Conversion rate = (number of conversions / total number of users) x 100%
+
+Metric: Churn rate
+Description: Measures the rate at which customers stop using a product or service over a period of time.
+Additional information: Churn rate = (customers lost during a given period / Customers at the beginning of that period) x 100
+
+Metric: Customer acquisition cost (CAC)
+Description: The total cost of acquiring a new customer.
+Additional information: CAC = total cost of sales and marketing / number of customers acquired
+
+Metric: Return on investment (ROI)
+Description: Measure of the profitability of an investment relative to its cost.
+Additional information: ROI = (net profit / total cost of investment) x 100%
+
+Metric: Customer lifetime value (CLV) / User lifetime value (LTV) (Growth)
+Description: Measures the total value of a customer over their lifetime of using your product or service. Takes into account factors such as the frequency of use, the amount of money spent, and the length of time as a customer.
+Additional information: CLV = (average value of a purchase) x (number of purchases per year) x (average customer lifespan)
+
+Metric: Profit
+Description: Difference between the amount earned and the amount spent.
+
+Metric: Market share
+Description: Percentage of the total revenue or sales in a market that a company’s business makes up.
+
+Metric: Awareness
+Description: Percentage of the population/target audience aware of the product/service.
+
+Metric: Consideration
+Description: Percentage of the population/target audience that would consider using the product/service.
+
+Metric: Usage
+Description: Percentage of the population/target audience that have used the product/service within a timeframe.
+
+Metric: Share of wallet (SoW)
+Description: Percentage of a customer’s budget that is spent on a product/service.
+
+Metric: Number of customers
+Description: Total number of customers. Can be broken down into paying/non-paying, if applicable.
+
+Metric: Retention rate
+Description: Percentage of users who return to the product or service after their initial visit. Provides insights on whether users find value in the product.
+Additional information: Retention rate = ((number of customers at the end of a period - number of new customers acquired during the period)/number of customers at the start of the period)) x 100
+
+Metric: NPS (Net Promoter Score)
+Description: Gives insights into customer satisfaction and loyalty by measuring the likelihood of a user recommending the product or service to others.
+Additional information: NPS = % of promoters — % of detractors: can range from -100 to 100.
+
+Business and product impact: Operational efficiency:
+
+Operational efficiency is an important metric to consider as a UX researcher, particularly when our users are employees for organizations that care about their bottom line. Metrics in this space explore how people and materials are used to achieve outcomes, identifying opportunities for improvement and measuring outcomes. Some examples of common metrics are outlined below.
+
+Metric: OPEX, at https://corporatefinanceinstitute.com/resources/accounting/operating-expenses/
+Description: Operating expense or operational expenditure.
+
+Metric: Cost of materials/software/hardware
+Description: The cost of inputs required.
+
+Metric: Time on task, at https://measuringu.com/task_times_motivation/
+Description: Time taken to complete a task.
+
+Metric: Error rates, at https://measuringu.com/errors-ux/
+Description: Frequency of errors reported as a percentage.
+
+Tracking Impact: Team impact:
+
+When assessing impact, it is important to consider the health of UX Research teams. By looking inwards we are able to increase research maturity and scale practices.
+
+Team impact: UX Research team efficiency and productivity
+
+Efficiency and productivity are common measures of team success. While they are comparatively easier metrics to capture it is important to balance these measures with qualitative feedback from stakeholders to understand trends and the true impact of research teams.
+
+Metric: # studies conducted
+Description: The total number of research projects completed over a given time period.
+
+Metric: Average time to complete a project
+Description: Tracking time to complete different types of research studies can help to highlight opportunities for improvement as well as track efficiency gains.
+
+Metric: # of research-driven decisions
+Description: Total number of decisions made leveraging UX research.
+
+Metric: # recommendations made
+Description: Total number of recommendations made over a time period to the backlog or pipeline.
+
+Metric: % of recommendations actioned
+Description: The proportion of recommendations that have been actioned over a time period.
+
+Metric: Ratio of evaluative vs generative research
+Description: The balance of types of research being conducted by a team.
+
+Metric: # customer enhancements/defects created
+Description: As measured by those added to selected repository (Github, Aha, etc.).
+
+Metric: # participants
+Description: Broken down by method.
+
+Metric: # of companies
+Description: The number of different companies involved or impacted by the research.
+
+Metric: # impediments identified
+Description: The total number of impediments or obstacles identified during the research process.
+
+Metric: Research time
+Description: The time dedicated to research activities.
+
+Metric: Total time
+Description: The total time spent on all research-related activities.
+
+Team impact: Demand and buy-in for research:
+
+It is important to consider demand and buy-in to UX research from stakeholders. The following metrics can be used to gauge sentiment potentially anonymously, however there is always value in regularly engaging with stakeholders to get feedback and understand their needs.
+
+Metric: Customer satisfaction score (CSAT), at https://www.getfeedback.com/resources/ux/top-ux-metrics-you-should-be-using/
+Description: Assesses a customer's satisfaction at a specific touchpoint.
+
+Metric: Net promoter score (NPS), at https://www.nngroup.com/articles/nps-ux/
+Description: Gives insights into customer satisfaction and loyalty by measuring the likelihood of a user recommending the product or service to others.
+
+Metric: # research requests
+Description: Tracking the pipeline of requests. This can be useful in understanding trends in demand as well as a potential lagging metric for customer satisfaction.
+
+Metric: Playback stakeholder attendance rates
+Description: Measuring engagement from stakeholders through attendance of playbacks and other ceremonies.
+
+Team impact: UX research maturity:
+
+UX research maturity is also important to track, continuing to grow research practices ensures that teams are better able to meet the needs of the business and drive business growth.
+
+Metric: # of designers supported to manage research
+Description: Capturing the time spent by UX researchers in supporting and upskilling other roles.
+
+Metric: Utilization of research templates
+Description: The number of times tools/templates have been reused.
+
+Metric: # of dedicated researchers
+Description: Measured by teams and business areas, this can also be reported as a ratio.
+
+Metric: UXR community events
+Description: Tracked by business area and region, this metric measures the participation and engagement in UX research community events.
+
+Metric: Completion of recognized learning pathways
+Description: Measuring UX research upskilling across teams and bands by tracking the completion of recognized learning pathways.
+
+Tracking Impact: Resources:
+- UX maturity model at https://www.nngroup.com/articles/ux-maturity-model/
+- Quantifying the User Experience, 2nd edition at https://yourlearning.ibm.com/activity/SAFARI-9780128025482
+- UX Metrics Medium article at https://uxplanet.org/list-of-ux-metrics-81a30e8b90b0
+- Value Orchestrator badge at https://www.ibm.com/garage/experience/badges/page/courses/Value_Orchestrator

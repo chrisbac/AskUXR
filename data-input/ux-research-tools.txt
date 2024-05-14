@@ -1,0 +1,236 @@
+Tools and resources
+
+Looking for tools you will need to get productive in IBM UX Research? This page outlines the key tools and resources that you will find helpful in your day to day work.
+
+Tools and resources: Research tools
+Work is currently underway on a comprehensive research tool strategy and standardized toolkit for all IBM UX researchers. This work by the Client Insights Practices tooling sub-team, led by Kristine Berry, will be informed with input from experienced researchers and leaders across all business units. If not listed below, please check with your team to find out what tools are being used for research.
+
+Tool enablement—access detailed IBM enablement guides through the tool links below.
+
+Software tool access request form:
+Please complete this form to process your request: https://airtable.com/shrx4AkfUCbhLxNd1
+
+Z tool access request form:
+Please choose “tool/license request” and complete the form to process your request at https://airtable.com/shrrsqj6VUPchwJeL
+
+Tool: Airtable
+Description for Airtable: Collaborative database-spreadsheet hybrid application
+Stage of research for Airtable: Research pipeline, project management, recruitment
+Team access for Airtable: Software, Cloud, Z. Limited access to other research teams to submit to the User Insights Hub.
+
+Tool: Alchemer (replaced by Qualtrics)
+Description for Alchemer (SurveyGizmo): Create surveys to collect feedback from users or customers
+Stage of research for Alchemer (SurveyGizmo): Data collection, reporting and socializing
+Team access for Alchemer (SurveyGizmo): Software, Cloud, Power, Storage, Z
+
+Tool: EnjoyHQ
+Description for EnjoyHQ: Qualitative data processing platform and user data repository
+Stage of research for EnjoyHQ: Research planning, transcription, data cleansing and analysis, reporting and socializing, storage and retrieval
+Team access for EnjoyHQ: Software, Cloud
+
+Tool: Respondent
+Description for Respondent: Find research participants outside of our current user base
+Stage of research for Respondent: Recruitment, participant tracking
+Team access for Respondent: Software, Cloud, Storage, Z
+
+Tool: User Interviews
+Description for User Interviews: Find research participants outside of our current user base
+Stage of research for User Interviews: Recruitment, participant tracking
+Team access for User Interviews: Software, Cloud
+
+Tool: UserZoom
+Description for UserZoom: Platform to conduct evaluative moderated and unmoderated studies
+Stage of research for UserZoom: Recruitment, data collection, data analysis, reporting and socializing
+Team access for UserZoom: Software, Cloud
+
+Tool: Optimal Workshop
+Description for Optimal Workshop: Information architecture (IA)/ tree testing
+Stage of research for Optimal Workshop: Data collection, data analysis, reporting and socializing
+Team access for Optimal Workshop: Storage
+
+Tools and resources: Resources for UX research
+
+Research methods:
+Skills Growth program—learn about research methods and foundational skills. Connect with subject matter experts to get inspired. This Software-based program is open to UX researchers across IBM.
+
+Quantitative UX research (Quant UXR) guild—fostering community and promoting the use of quantitative UXR methods. The guild is open to anyone who is interested in or currently doing, inspiring, or facilitating the use of quantitative methods in UX research. Join us on slack, #quant-uxr-guild, and subscribe to the event series centered around user-nominated topics.
+
+Skills Growth program: https://pages.github.ibm.com/cdai-design/practices/skills-growth-program/skills-growth-program
+
+Quant UXR guild event series: https://ec.yourlearning.ibm.com/w3/series/10389410
+
+IBM Research studies:
+The User Insights Hub encompasses our user research library. You can currently use it to find past research projects, gain a better understanding of your user, and leverage insights from other research that might be relevant to your work.
+
+User Insights Hub: https://sheldon.wdc1a.cirrus.ibm.com/home
+
+Secondary research:
+Use these resources to find market research, see how IBM offerings stack up to the competition, and to learn more about the products you’ll be covering in your research.
+
+Resource: Clarity
+Description for Clarity: Clarity provides IBMers with analysis of existing external data to understand the strengths, weaknesses, and perceived competitiveness of IBM offerings and their competitors.
+Access for Clarity: IBM-wide
+
+Resource: Northern Light
+Description for Northern Light: External market research and news portal (Win-Loss miner merged with Northern Light).
+Access for Northern Light: IBMers must request access
+
+Resource: SmartCare
+Description for SmartCare: SmartCare analytics delivers a comprehensive view of a customer’s experience across all IBM brands, divisions and geographies.
+Access for SmartCare: IBMers must request access
+
+Resource: Seismic
+Description for Seismic: You’ll find valuable information on IBM offerings including product feature and sell sheets, market insights, product positioning and competetive advantages, and buyer personas.
+Access for Seismic: IBM-wide
+
+Resource: OM-PM Central
+Description for OM-PM Central: Product management’s curated list of resources; start with the market analysis section.
+Access for OM-PM Central: IBM-wide
+
+Qualitative customer insights
+Use these resources to learn more about how our customers interact with IBM products and webpages, and what they think about them.
+
+Resource: Amplitude
+Description for Amplitude: Amplitude is used to display web analytics for most products and platforms, including IBM Cloud, IBM Cloud Platform, and IBM.com. If you have an offering on the IBM Cloud Platform, you can leverage Amplitude for some very basic analytics out-of-the-box.
+Access for Amplitude: IBMers request access through the AccessHub portal at https://w3.ibm.com/w3publisher/advocacy-academy/start/get-medallia-access
+
+Resource: Hotjar
+Description for Hotjar: Hotjar is a web analytics tool that collects user data on instrumented IBM marketing pages; heat maps, conversion funnels, scrolling behavior, form analysis, and visitor recordings. These functions allow researchers to visualize and understand user behavior to support qualitative findings.
+Access for Hotjar: IBMers must request access.
+
+Resource: Medallia
+Description for Medallia: Medallia is the tool we use to collect and integrate Net Promoter Score (NPS) data. Within its dashboard, you will be able to review NPS responses (individual and aggregate) for several products across the company.
+Access for Medallia: IBMers request access through the AccessHub portal at https://w3.ibm.com/w3publisher/advocacy-academy/start/get-medallia-access. Login with access at https://ibm.medallia.eu/sso/ibm/logonSubmit.do.
+
+Tools and resources: Communication and productivity
+
+Presentation templates:
+Use the following templates for your presentations:
+
+IBM masterbrand template in PowerPoint and Keynote: The resource folders linked below contain materials to help you make the most of these templates.
+
+UX Research template in Keynote: Similar to the IBM masterbrand template with colors and icons unique to UX research.
+
+Regardless of which version you choose, read through the full template guidance PDF at https://ibm.ent.box.com/s/uoz63rh5c17bgp6i77tvwonfmr2n6f2h/folder/177160745485 to familiarize yourself with how to make these templates work for you.
+
+
+UX Research template in Keynote: https://ibm.box.com/s/1cwqdymjejx76oresv4zb5ajk6246z7q
+IBM master template in Keynote: https://ibm.box.com/s/uoz63rh5c17bgp6i77tvwonfmr2n6f2h
+UX Research template in PowerPoint: https://ibm.box.com/s/ev44169ftb4u5if4i8xem1xov4gq3ohr
+IBM master template in PowerPoint: https://ibm.box.com/s/sr908z3t9v7pfnd293yqbvpprma7yxnu
+
+Communication and productivity tools:
+
+Resource: Outlook
+Description for Outlook: Corporate email and calendar
+Access for Outlook: IBM-wide
+
+Resource: Slack
+Description for Slack: Communication and collaboration
+Access for Slack: IBM-wide
+
+Resource: Box
+Description for Box: File storage and sharing
+Access for Box: IBM-wide
+
+Resource: Mural
+Description for Mural: Tool for live visual collaboration
+Access for Mural: IBM-wide
+
+Resource: Webex
+Description for Webex: Online audio and video meetings with transcription functionality
+Access for Webex: IBM-wide
+
+Resource: Watson APIs
+Description for Watson APIs: A suite of prebuilt IBM applications to help with data analysis and insights.
+Access for Watson APIs: IBMers can use demo tools without full access to the API.
+
+Resource: IBM SPSS
+Description for IBM SPSS: SPSS Statistics is a software package used for interactive, or batched, statistical analysis. It’s a common research tool for working with quantitative data.
+Access for IBM SPSS: Visit the Mac@IBM app store to install, it’s free.
+
+Resource: WebEx Transcription
+Description for WebEx Transcription: Turn on transcriptions for your Webex Account.
+Access for WebEx Transcription: IBM-wide
+
+Tools and resources: Slack channels:
+Each business unit has a main slack channel, and usually many secondary channels. These channels live under a primary workspace, such as IBM Studios, Cloud and Cognitive Design, IBM Data and AI. Be sure your team adds you to the workspace and channels they use to communicate.
+
+UX Research Slack channels:
+
+Channel: 🔒 ux-research-software
+Description: Channel for Software UX Research org
+Workspaces: Added to all workspaces at IBM
+
+Channel: #️⃣ ibm-ux-research
+Description: Ask questions about UX research (AKA design or user research), share best practices + find community. All design researchers welcome.
+Workspaces: Added to all workspaces at IBM
+
+Channel: #️⃣ sup-user-engagements
+Description: Dedicated to providing updates on the Sponsor User Program portal.
+Workspaces: Added to all workspaces at IBM
+
+Channel: #️⃣ guided-self-service-research
+Description: This channel is a space where designers can ask questions and seek guidance from user researchers when planning their next GSS study.
+Workspaces: Cloud and Cognitive Design
+
+Channel: #️⃣ ibm-user-insights-hub
+Description: IBM User Insights Hub, formerly Sheldon, provides user research and client insights about the products you work on. Use this channel to ask questions, and find relevant resources.
+Workspaces: Added to all workspaces at IBM
+
+Channel: #️⃣ user-research-study-results
+Description: A place to view Software UX Research study results as they come hot off the presses! Visit ibm.biz/sheldon to search the research results repository.
+Workspaces: IBM Cloud Platform, IBM CIO, IBM Data and AI, IBM Research, IBM Power, IBM Software, and IBM Security
+
+Design slack channels:
+
+Channel: #️⃣ carbon-design-system
+Description: Design and development-related questions and general discussions regarding IBM’s design system, Carbon Design System.
+
+Channel: #️⃣ design-toolbox
+Description: Creating light-weight governance for the designer toolset in IBM.
+
+Channel: #️⃣ designer-growth
+Description: This channel brings together ALL IBM Design specialities across all IBM Studios, BUs, and geographies as part of ensuring designers are aware of growth opportunities as well as peer advice.
+
+Channel: #️⃣ ibm-design-language
+Description: The IBM Design Language channel is meant for opportunities to form SWAT teams around growing the language, engage in research opportunities and to give and receive feedback around team-level efforts to adopt and use the language.
+
+Channel: #️⃣ visual-design
+Description: Recieve the latest news from Carbon and IDL Design Playbacks, and IBM Blue Studio design updates.
+
+Channel: #️⃣ askmeanything-design
+Description: Every month, right here in this Slack channel: IBM’s most influential design leaders—live, unfiltered, and answering your questions.
+
+Channel: #️⃣ general-all-studios
+Description: General conversation related to IBM Design and IBM Studios (in IBM Studios workspace only).
+
+Slack channels for general tools:
+
+Channel: #️⃣ box-at-ibm
+Description: Peer support only for all manner of Box issues.
+
+Channel: #️⃣ airtable-guild
+Description: Share tips, questions, best practices and news about Airtable.
+
+Channel: #️⃣ slack-at-ibm
+Description: Peer and volunteer support for Slack. Please use search and check pinned posts before asking. For official help use Help@IBM or the AskITSupport bot.
+
+General Slack channels:
+
+Channel: #️⃣ history-at-ibm
+Description: A place to share and celebrate IBM history, hosted by the IBM Corporate Archives.
+
+Channel: #️⃣ ibmer_news
+Description: The home of IBMer News on Slack. Read, watch and share your ideas in the threads.
+
+Channel: #️⃣ join-arvind
+Description: Questions for CEO Arvind Krishna’s office hours.
+
+Additional IBM Design resources:
+
+IBM Design Thinking: https://www.ibm.com/design/thinking/
+IBM Design community: https://w3.ibm.com/w3publisher/ibmdesigncommunity
+IBM Design Language: https://www.ibm.com/design/language/philosophy/pov/
+IBM Software Product Design: https://pages.github.ibm.com/cdai-design/
+

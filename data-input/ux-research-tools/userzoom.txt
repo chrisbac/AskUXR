@@ -1,0 +1,69 @@
+UserZoom
+UserZoom is a user testing and feedback platform that allows researchers and designers to remotely conduct usability studies in a self-served manner and within hours. 
+UserZoom offers our team the powerful ability to complete end-to-end evaluative research without leaving the platform. Our researchers can recruit participants, create usability tests, obtain videos of participants viewing our products, receive structured and unstructured data, and complete analysis on the platform. UserZoom capabilities include moderated and unmoderated remote tests; information architecture research; on-page feedback and surveys; and other studies such as card sorting, tree tests and intent testing. See a UserZoom quick start video at https://video.ibm.com/recorded/132860626
+
+Remote unmoderated research with UserZoom:
+Basic usability testing: capture live video feedback quickly and easily.
+Surveys: gather rich, attitudinal feedback using advanced logic, conditions and randomization at scale.
+Card sorts: conduct open or closed sorting to ensure your content is structured in a way which your users understand.
+Click tests: see where participants click first. Measure their first impressions, define success areas, and visualize clicks by creating a heatmap.
+Tree tests: assess the findability of items in your menu by measuring where users expect to locate specific information.
+Live intercept: understand the true intent of your visitors and gather feedback on a live website or application.
+Advanced UX research: utilize multiple research methods at once. Combine different types of tasks and apply sophisticated logic, conditions, randomization, and more at the same time.
+
+
+Remote moderated research with UserZoom:
+UserZoom can be used in place of Webex, or any other video conferencing tool, to conduct remote research sessions. 
+The platform allows you to conduct multiple live moderated studies at the same time. You can view the number of live projects happening at once in the dashboard. 
+The UserZoom platform offers:
+Notetaker role
+Observer role
+Live chat for the team
+Live chat with the participant
+Recording
+You can invite your own participants from IBM internal panels to take part in your remote studies and/or recruit participants from the UserZoom panel called IntelliZoom.
+
+
+Getting started
+Every IBM Software researcher has access to full capabilities including moderated and unmoderated studies and participant recruitment via IntelliZoom, the UserZoom panel.
+
+
+Steps to get access
+Step 1: Fill out the tool access request form at https://airtable.com/shrx4AkfUCbhLxNd1 within Software. Not in IBM Software? Contact your manager for team specific guidance.
+Step 2: Log in using your IBM email address. UserZoom is single sign-on enabled. Use this unique login link at https://manager.userzoom.com/ibm.
+Step 3: Join the #userzoom Slack channel. This channel serves as a resource to share content, gain tips from other researchers, ask questions about the tool, and learn about upcoming sessions.
+Step 4: Check out unmoderated quick start guide and the moderated quick start guide and watch for live training sessions.
+
+UserZoom unmoderated quick start guide at https://ibm.ent.box.com/s/ezfatdbjj0ogh2qngmws59i282mizaml
+UserZoom moderated quick start guide: https://ibm.ent.box.com/s/452anvwryuoyvms0pqyikv5nmu5l8id4
+
+UserZoom Best practices:
+To check capacity, you’ll want to check who else is currently using the platform before beginning any interview. Select the “live” info icon to confirm there is availability in the tool’s virtual rooms before starting your own session.
+
+
+UserZoom expert
+#userzoom for questions about the tool and updates. #sup-and-user-engagements for questions about recruiting
+
+
+How to check availability and recruit via IntelliZoom: https://ibm.ent.box.com/notes/981246971955
+Getting the right participants for your study: https://academy.userzoom.com/series/ux-researcher-course-series/untitled-course-1
+
+
+Userzoom Learning and support
+Get detailed guidance from UserZoom on a number of topics. Take a self-paced UserZoom academy mini-course. Find the study type or topic of interest to explore further. The enablement video-based lessons vary from 5-36 minutes. Be sure to log into UserZoom first to access the content below:
+UserZoom Academy mini-courses: https://help.usertesting.com/hc/en-us/articles/360015106938-UserZoom-Academy-Index
+
+
+Tips for unmoderated studies with Userzoom
+Choosing the right study type: https://help.userzoom.com/hc/en-us/articles/360016573918-Choose-the-right-study-type
+Overview of all unmoderated study types: https://help.userzoom.com/hc/en-us/articles/360013910918-Overview-of-all-Unmoderated-study-types
+
+
+Tips for moderated studies with Userzoom
+How to create a moderated study: https://help.usertesting.com/hc/en-us/articles/12435217513117-My-List-Moderated-Study-Set-Up
+How to schedule a moderated study: https://help.usertesting.com/hc/en-us/articles/360016541398-Schedule-a-Moderated-Session
+How to join as a collaborator: collaborator experience: https://help.userzoom.com/hc/en-us/articles/360010871498-Moderated-session-Collaborator-experience
+How to conduct interviews: https://www.usertesting.com/resources/topics/user-interviews-for-better-ux
+
+
+Don’t forget to add the time you spend learning any tool to your Think40 hours at https://yourlearning.ibm.com/add-learning

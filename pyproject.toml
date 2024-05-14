@@ -1,0 +1,4 @@
+name = "chatbot-example"
+version = "0.1.0"
+description = "A chatbot for UX Research"
+authors = ["Carlos Rosemberg <carlos.rosemberg@ibm.com>", "Gobind Bakhshi <gobind.bakhshi@ibm.com>"]

@@ -1,0 +1,56 @@
+Research Methods within the PDLC
+This page provides an overview of the most recent guidance for product teams for selecting UX research methods based on the product development lifecycle (PDLC).
+
+
+What is the new PDLC? The new Product Development Life Cycle (PDLC) is a set of modern product management practices at IBM with strong X-in-a-box collaboration, consisting of three phases: Discover, Deliver and Launch. Discover phase substeps are Define opportunity, Develop solution strategy, and Scope and design MVP. Deliver phase substep is Build MVP. Launch phase substeps are Test MVP and Continuously improve. The Discover phase aims to answer "Are we building the right product?" and has the sub-steps: Define opportunity and Develop solution strategy. The Deliver phase aims to answer "Are we building the product right?" and has the sub-steps: Scope and design MVP, and Build MVP. The Launch phase aims to answer "Are customers getting value?"and has the sub-steps: Test MVP and Continuously improve.
+
+
+The Research Framework: Market and UX Research across the PDLC
+To develop products that are exceptional our teams must discover and deliver continuously, UX Research is an essential part of every stage in the Product Development Life Cycle (PDLC). The following research framework lays out a corresponding set of the types of research that can be used in each stage of the PDLC. The framework is designed as a menu of choices to accommodate both the research needed for higher-stakes, intensive new product development as well as minimal research needed on very mature products with lots of market knowledge. Think of this as an a la carte menu of research activities and methods you can work with to do in discovery, based on the key open questions. 
+
+
+PDLC main phase: Discover
+PDLC sub-step: Define opportunity
+PDLC Research activities for Define opportunity: Discovery interviews, Foundational generative research, Market analysis and competitive landscape research, Competitive usage research.
+PDLC Research methods for Define opportunity: 1:1 Interviews, Market analysis (Desk research, Buying preferences survey, Win-loss survey, Product analytics) Competitive usage (qualitative interviews, heuristic evaluations), ethnography, contextual inquiry, diary studies, JTBD research, gap analysis.
+
+
+PDLC main phase: Discover
+PDLC sub-step: Develop solution strategy
+PDLC Research activities: Test Multiple product concepts, Product value testing, NFR technical interviews.
+PDLC Research methods: Concepts testing, Facilitaded brainstorming, Participatory workshops, Value proposition testing, Pricing studies, NFR technical interviews.
+
+
+PDLC main phase: Discover
+PDLC sub-step: Scope and design MVP
+PDLC Research activities: Prioritization research for MVP features and releases and Evaluative research on minimum viable prototype. 
+PDLC Research methods: Kano model study, Conjoint, MaxDiff, Qualitative 1:1 interviews.
+
+
+PDLC main phase: Deliver
+PDLC sub-step: Build MVP
+PDLC Research activities: Evaluative research on minimum viable prototype. 
+PDLC Research methods: Usability (1:1 user interviews, Card sort, Cognitive walk-through, Task Analysis, Rapid Iterative Testing & Evaluation (RITE)).
+
+
+PDLC main phase: Launch
+PDLC sub-step: Test MVP
+PDLC Research activities: Evaluative research on working MVP in limited availability release. 
+PDLC Research methods: Quantitative beta analysis (analyzing beta usage analytics).
+
+
+PDLC main phase: Launch
+PDLC sub-step: Continuously improve
+PDLC Research activities: Monitor and analyze product and market data, Generative research on getting started to adoption (product use), On-going competitive usage research, Evaluative research on getting started to adoption (product use).
+PDLC Research methods: Direct user feedback analysis, NPS, CSAT, SUS, Cohort analysis, A/B testing, SEO analysis, SUPR-Q, Usability (same as evaluative MMP list), Competitive usage (same as market analyst list).
+
+
+PDLC Research Methods for the Discover phase: Discovery interviews, Market analysis, Competitive usage, Ethnography, Contextual inquiry, Diary studies, JTBD research, Gap analysis, Concepts testing, Facilitated brainstorming, Participatory workshops, Value proposition testing, Pricing studies, NFR technical interviews, Kano model study, Conjoint, MaxDiff, Qualitative 1:1 interviews.
+PDLC Research Methods for the Deliver phase: Usability (1:1 user interviews, Card sort, Cognitive walk-through, Task Analysis, Rapid Iterative Testing & Evaluation (RITE)).
+PDLC Research Methods for the Launch phase: Quantitative beta analysis (analyzing beta usage analytics), Direct user feedback analysis, NPS, CSAT, SUS, Cohort analysis, A/B testing, SEO analysis, SUPR-Q, Usability (same as evaluative MMP list), Competitive usage (same as market analyst list).
+
+
+Resources on the methods within the PDLC:
+The following resources are available to learn more about PDLC and UX Research methods framework:
+- UXR Town Hall deck by Ellen Kolsto, at https://ibm.box.com/s/j8prh5cjm2qa7b4atoqj1569o4zdfw4n
+- PM Academy Essentials for UXRs by Ellen Kosto and Kati Venturato, at https://ec.yourlearning.ibm.com/w3/playback/10384516

@@ -1,0 +1,16 @@
+apiVersion: automation.cio/v1alpha1
+kind: RepositoryConfig
+ealImapNumber: <EAL Number>
+build:
+  strategy: cirrus-deployment
+  pipeline: python-v3.9-micropipenv-container-image
+  version: v2
+  config:
+    cirrus-pipeline-name: < pipeline name >
+    cirrus-project-name: <project name>
+    distribution-directory: .
+    service-port: '8501'
+    cirrus-api-username: <encrypted username>
+    cirrus-api-password: <encrypted password>
+    cirrus-region: us-south2
+    deploy-verification-memory-request: q2gb

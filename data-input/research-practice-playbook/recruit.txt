@@ -1,0 +1,180 @@
+Recruiting participants
+
+One of the best ways to uncover the problems and pain points of our users is simply by talking to them. However, when it comes to user research, we must consider all approaches to recruitment to create great and diverse product experiences.
+
+In this playbook, you will find guidance about:
+- Recruiting by user type
+- Participant screeners
+- The User Engagement Hub (UEH)
+- Participant agreements
+- Templates for participant recruiting
+- Resources for participant recruiting
+
+Getting started:
+
+Recruiting can be a very time-consuming part of the process, and it is important to begin recruiting as early as possible. Researchers will usually continue to recruit until they have reached their ideal number of participants, which means a researcher may be recruiting during another research phase (e.g. planning or conducting research). Forging relationships and connections is an important step in conducting research and accessing product users, so make it a mission to nurture your relationships. 
+
+Recruiting by user type:
+
+You’ll first want to determine what type of participant to recruit. The following sections will guide you through the various types of participants and when and how to engage them.
+
+Consult the following information on how to recruit will be categorized by type:
+- IBM product users
+- Non-IBM product users
+- IBM employees
+- Niche, specialized
+
+Recruiting by user type: IBM product users:
+
+Recruit these users from our User Engagement Hub or by working cross-functionally with product teams (Product managers, Design, and Development) and client teams (CSMs, Sales Reps, Account Executives) to begin getting connected to the right product user.
+
+Recruiting by user type: IBM product users: When to recruit IBM product users:
+
+Product users, or sponsor users, are helpful for research studies and in-depth feedback from people who use the product. Depending on the study, getting to relevant participants within sponsor user companies can be difficult and time consuming. Allot enough time in the research plan to recruit, it could take several weeks to get to the right participants. Use other methods to recruit in parallel. Sponsor user organizations often engage with IBM at different levels and with various teams including product teams (PM, Design and Development) and client teams (CSMs, Sales Reps, Account Executives) so it is critical to coordinate efforts to ensure user research activities are planned timely and appropriately with sponsor users. 
+
+Recruiting by user type: IBM product users: How to recruit IBM product users:
+
+Start by investigating whether your product team already has sponsor users. Researchers should work closely with product managers on identifying the appropriate clients. Sometimes they can help researchers by sending recruitment emails to clients. Forging relationships and connections is an important step in conducting research, so make it a mission to nurture your relationships. You can use the User Engagement Hub (UEH) to check whether the organization you’re interested in working with is registered and if they are actively engaging with teams in our brands. Prepare an “invite to participate” script that describes your intent and the specific participants criteria. After identifying the recruitment candidates, the researcher will send emails to invite participants to the studies. Or, ask your product or sales team to send the invites if they prefer to make the initial contact. You can find email templates and examples in the resources section below. Then, researchers will schedule research sessions at a time convenient to both the researcher and participants.
+
+Recruiting by user type: IBM product users: How to track your engagement:
+
+The User Engagement Hub (UEH) is the centralized space to source IBM product users and track user engagements. Centrally tracking engagements with product users is important to make sure we don’t over-engage with users, and add notes to provide detail on the user to inform future engagements. Use the resource links below to learn more about the Engagement Hub.
+
+Recruiting by user type: IBM product users: Incentives:
+
+We are not in the practice of paying clients to participate in UX research. Giving input and understanding how feedback influences products is often all the incentive our clients need to participate in UX research. See IBM corporate finance document FIN/LEG 168, linked in the resource section, to learn more about our policy around gifting and receiving gifts.
+
+It is prohibited to provide incentives to government-owned entities (GOE’s). To check to see if a company/client that you’re interested in working with is a GOE, please use either the CTEBA lookup tool (https://w3.ibm.com/marketing/events/ews/cteba-repository/lookup) or AskHR (https://w3.ibm.com/hr/askhr/home) using the prompt “GOE classification”.
+
+Recruiting by user type: IBM product users: Legal agreements:
+
+User Engagement Agreement — check out the Agreements section section for more detail. Please collect consent to record verbally before starting your session.
+
+Recruiting by user type: Non-IBM product users
+
+Recruit these users from third-party companies for competitive research studies. These participant lists have restricted use and contractual limitations.The steps include:
+1. Secure budget and determine tools
+2. Select participants
+3. Wrap up incentives and study with the vendor
+
+Recruiting by user type: Non-IBM product users: Secure budget and determine tools:
+1. Validate that your study budget has been accounted for with budget managers before proceeding to start your study. If part of IBM Software you should submit a quarterly research study forecast in the Airtable team base for managers to review.
+2. Request access to recruitment tools, if needed. Tools vary by division, find request forms for Software and Z, plus enablement for commonly used tools here.
+3. Define criteria and screener for study
+   - Find a baseline template for screeners in the resources section.
+   - Ensure all screener questions are GDPR (https://w3.ibm.com/ibm/privacy/gdpr) compliant (e.g., not asking questions about socio-economic status, age, securely storing data, etc.)
+4. Submit criteria to respective tool/vendor
+5. Assess recruitment feasibility. Ask yourself, “is this tool identifying the right participant profile that I need or do I need to pursue other options?”
+   - Accept or decline feasibility. If accept, proceed to Selecting participants. If decline, try another recruitment vendor. Niche recruitment vendor options should be explored when all other options have been exhausted. See Niche recruiting section below.
+
+Recruiting by user type: Non-IBM product users: Select participants
+1. You will need to upload the User Engagement Agreement (UEA) to your selected tool(s) and collect required signatures. See more information on how to upload these agreements into our tools in the Agreement section, below.
+2. Create the study in the tool to find your participants.
+   - Review responses to your screener and create a shortlist of participants. For interview sessions, define and set availability for sessions in the calendar. 
+   - See more details on scheduling session in Conducting (https://pages.github.ibm.com/reops/ux-research/research-practice-playbook/conduct).
+
+Recruiting by user type: Non-IBM product users: Wrapping up:
+1. Distribute incentives upon completion, where applicable, from within the tool. This may be a manual step for which you’ll receive a notification. See the Incentives section, below, for more detail.
+2. Close out the study with the vendor. This is an important step, please reference more details in the tooling section for appropriate how-to’s.
+
+Recruiting by user type: Non-IBM product users: Incentives:
+
+Please distribute thank you gifts to eligible participants directly through the third-party recruitment tool within 3-5 business days of their participation, with the exception of government owned entities (GOE’s) and any IBM employees. We do not pay GOE’s and IBM employees are not eligible to receive thank you gifts. Additionally, please do not use the selection to be invoiced for the amount during project set-up. Note: if you have previously used Tremendous, it is no longer an approved tool for IBM.
+
+Recruiting by user type: Non-IBM product users: Legal agreements:
+
+User Engagement Agreement — check out the Agreements section, below, for more detail. Please collect consent to record verbally before starting your session.
+
+Recruiting by user type: Niche recruitment:
+
+Recruit these users if you have a high number of very specific criteria requirements making the recruitment challenging. Use this method when you have exhausted the above options with little to no return on fits for your research project. This type of recruitment requires additional approvals and budget, please consult your manager.
+
+Recruiting by user type: Niche recruitment: Vendors:
+
+Limited access to Intellizoom, the panel function of UserZoom, is available. Please reach out to your manager for more information.
+
+Recruiting by user type: Niche recruitment: Legal agreements:
+
+The above niche recruitment vendors are recommended by IBM Software and have worked with procurement to ensure extra language around IBMs terms for data privacy and legal agreements. Please collect consent to record verbally before starting your session.
+
+Recruiting by user type: IBM employees:
+
+Recruit these users for pilot testing, gathering domain expertise, and to help scope and formulate research questions.There is a wealth of domain expertise at IBM who are excellent sources of information to conduct preliminary research. Domain experts often sit in roles such as: Sellers, Services/Lab Services, Account managers/executives, CSMs, Support, Marketing. Running interviews with these experts can quickly and more informally help scope and formulate research questions. Helpful people and places to mine experts include:
+- Product managers, design leads and other segment design researchers
+- IBM portfolio-specific Slack channels and AMA sessions
+- Offering team workshops and events (i.e. Think)
+Often these experts are eager to share knowledge and welcome an opportunity to engage with the design team. Reach out to them and introduce yourself. Forging relationships and connections is an important step in conducting research, so make it a mission to nurture your relationships. 
+
+Recruiting by user type: IBM employees: Incentives:
+Full-time IBM employees can receive bluepoints (if available). Contractors and interns unfortunately cannot receive bluepoints. Consult your manager for more information on access to any available funding for this incentive. It is against BCG guidelines to provide incentives to IBM employees with gift cards (see FIN 168 in the Resources section).
+
+Recruiting by user type: IBM employees: Legal agreements:
+Mandatory privacy statement for IBMer surveys (https://w3.ibm.com/w3publisher/survey-research-center/survey-process/guidelines). Please collect consent to record verbally before starting your session. Check out the Agreements and consent section (https://pages.github.ibm.com/reops/ux-research/research-practice-playbook/recruit#participant-agreements) for more detail.
+
+Participant screeners:
+
+All studies benefit from proper participant screening. Screeners are short surveys sent to a participant pool during the recruitment stage. The screener should be designed to detect and remove unqualified participants based on your study criteria. This is necessary as some people participate solely to receive incentives without having knowledge/experience in the problem space. Recommended best practices include:
+1. Disguise the intent of the study. Don’t make it simple for respondents to only respond how they think you want them to respond in order to make it through screening.
+2. Do not tell people if they’ve been screened out. Discreetly close out the screener with a generic message thanking them for their time.
+3. Use “red herrings” in your screener. For example, when asking for tools, make up a product name that you know does not exist.
+4. Ask a free-response question requiring a personalized response to gather more data about the qualifications of the participant.
+- As a result of generative AI (e.g., ChatGPT), judging the participant on their free-response answers can prove to be difficult. If you suspect someone has used AI, proceed cautiously and use your judgement. Where possible, seek confirmation and ask for more information on responses. For surveys and other anonymous data collection techniques, look closely at details that can be used as a filter to identify potential “assisted” answers, such as time to respond and patterned responses to multiple-choice questions.
+- Related article: Screening in the age of ChatGPT (https://ibm.ent.box.com/notes/1263401237715?s=f5y1255crjmzqvbpjh3joo59uv3q937g). 
+
+Did you follow the practices above and a bad fit still made it into your project? If this occurred in one of our third-party recruitment tools, please know that you are not required to pay incentives to those who have blatantly misrepresented themselves. Based on the situation, you may decide you want to anonymously report them in the third-party tool or you may decide you’d like to pay a partial incentive for their time
+
+The User Engagement Hub (UEH):
+
+The User Engagement Hub (UEH) is a centralized IBM resource that allows cross-funtional collaborators to search for, add and manage participants for your research.
+
+Features of the Engagement Hub include:
+1. Search and engage participant(s) from the IBM product install base.
+2. Manage, track, create projects and log engagement sessions with your participants.
+3. Bulk send agreements to upcoming engagement sessions.
+4. Manage participant communications in one space with easy-to-use templates.
+5. Add new users to the program.
+
+You need to request access to the tool to start using this resource. Use the UEH login link in the Learning resources section below to request access. Get Think40 credit while learning the benefits of the platform — how it can help the customer while we deliver IBM product excellence.
+
+Participant agreements: 
+
+User Engagement Agreement (UEA):
+The User Engagement Agreement (UEA) is the primary agreement between an individual user and IBM for feedback on research. It is intended to be used in circumstances in which an IBMer may need to share IBM confidential information with an individual feedback provider.
+- Allows IBM to share confidential information (e.g., unreleased product information) for individual feedback.	
+- Does not provide the protection of intellectual property for users company, do not ask the participant to share this type of information.	
+- Includes consent to record audio and video. Additionally, always get verbal consent before hitting record.
+
+Download User Engagement Agreement (UEA): https://pages.github.ibm.com/reops/ux-research/b7c4437ddeb07678e2017ddc63cf6142/image_UEA_Document.pdf
+
+Participant agreements: User Engagement Agreement (UEA): How to add the UEA into our third party recruitment tools:
+1. User Interviews: The “session details” section of the project set-up should be used for the UEA file to be uploaded. From here, participants submit a digital signature. Once a participant has signed, a copy will be emailed to the project owner. Any collaborator with edit access can also download a copy of the agreement on the “confirmed sessions” section of the project by clicking the three dots to the right of a participant’s name and choosing “download”. This User Interviews support page (https://www.userinterviews.com/support/document-signing) details the participant’s experience when signing an agreement and includes all screenshots of the process.
+2. Respondent.io: After project set-up, utilize the message center of your project and send the UEA file directly to each participant for signature. This is the best way for researchers to get clear confirmation on the agreement before sending an invitation to participate in a project. Alternatively, the UEA file can be uploaded under “screener settings” of the project step-up. This Respondent support page (https://help.respondent.io/en/articles/5489121-adding-an-nda-to-your-project) details more on adding our agreements.
+
+Templates for recruiting participants: 
+1. Email templates for recruiting participants A (https://ibm.box.com/s/rwweo0s5rk47ztsclkvbzr77oflcoyz7)
+2. Email templates for recruiting participants B (https://ibm.box.com/s/c4z08gy6ytor7ptk5v681lbihgpwpm4q)
+3. UserZoom guidance on screeners (https://help.userzoom.com/hc/en-us/articles/360000661778-How-to-write-screener-questions)
+4. How to use the screener bank in UserZoom (https://ibm.box.com/s/p7k26h7utcqqdlew8pcw1zx0hxfd98ds)
+
+Resources for recruiting participants: User Engagement Hub:
+For questions on any topic including legal agreements and forms, contact the User Engagement team on Slack. Below are additional resources about the program.
+1. Join the User Engagement Hub Slack channel: #user-engagement-hub (https://ibm-casdesign.slack.com/archives/C012L6S28R5)
+2. Visit the User Engagement Hub FAQs (https://sponsor-user-program.wdc1a.cirrus.ibm.com/help/faq)
+3. Review User Engagement Hub best practices (https://sponsor-user-program.wdc1a.cirrus.ibm.com/learn/engaging)
+4. Download external User Engagement Hub enablement decks (https://sponsor-user-program.wdc1a.cirrus.ibm.com/learn/enablement)
+5. User Engagement Hub login page (https://sponsor-user-program.wdc1a.cirrus.ibm.com/learn/details)
+6. Learn about the Engagement Hub through YourLearning (https://sponsor-user-program.wdc1a.cirrus.ibm.com/learn/yourlearning)
+
+Resources for recruiting participants: Corporate resources for research:
+1. Mandatory privacy statement for IBMer surveys (https://w3.ibm.com/w3publisher/survey-research-center/survey-process/guidelines)
+2. IBM Business Conduct Guidelines (https://w3.ibm.com/tools/bcg-program/bcg)
+3. IBM corporate document FIN 168 for rules on gifting (https://w3.ibm.com/ibm/corporate-documents/fin/fin-168-leg-168)
+4. CTEBA look-up tool for identifying GOEs (https://w3.ibm.com/marketing/events/ews/cteba-repository/lookup)
+5. General Data Protection Regulation (GDPR) compliance (https://w3.ibm.com/ibm/privacy/gdpr)
+6. Tools prohibited to use in IBM due to data privacy non-compliance * (https://w3.ibm.com/w3publisher/open-source-tools/tools-that-are-not-allowed)
+(*) Many clients and vendors use cloud-based collaborative tools. An alternative solution should be identified when collaborating on shortlist from vendors outreach to avoid any compromise of IBM data.
+
+Resources for recruiting participants: Tools:
+Third party recruitment tools have been procured by some teams, including:
+1. Respondent (https://pages.github.ibm.com/reops/ux-research/ux-research-tools/respondent.io)
+2. User Interviews (https://pages.github.ibm.com/reops/ux-research/ux-research-tools/user-interviews)

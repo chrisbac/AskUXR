@@ -1,0 +1,110 @@
+Tools: Airtable
+
+With Airtable, you can build powerful, custom databases and applications to support your most important workflows. In practice, this might look like a research repository, a content calendar, a product roadmap, an event schedule, a metrics tracker…or all of the above. Airtable is flexible enough to handle workflows big and small, and to grow as your team’s needs evolve.
+
+
+The Software, Cloud and Z research organizations use Airtable primarily to: Plan and track research project metadata; Generate cross-team insights by syncing each team’s work into a Global Research Repository; Publish our research in IBM Sheldon where it can be accessed by stakeholders across the company.
+Every IBM Software, Cloud and Z researcher have access to full capabilities of Airtable Enterprise, so you can create your own bases, interfaces, and automations for any purpose.
+
+
+Getting started with Airtable: Step 1: Fill out the tool access request form. You’ll receive an email invite once your request is processed. Not in IBM Software, Cloud or Z? Contact your manager for team specific guidance. Step 2: Log in using your IBM email address.  Airtable is single sign-on enabled. Use this login link: https://www.airtable.com. Step 3: Check out these resources to get started: Getting started with Airtable: https://support.airtable.com/docs/getting-started-with-airtable; Airtable guides: https://www.airtable.com/guides ; Customize your Airtable home screen: hhttps://support.airtable.com/docs/airtable-home-screen-new-experience ; Airtable glossary: https://support.airtable.com/docs/glossary-of-airtable-terminology ; For critical issues requiring more support, submit a request in the Airtable help center: https://support.airtable.com/ .
+
+
+If you are in Software or Cloud, please complete this form for a Airtable access request: https://airtable.com/shrx4AkfUCbhLxNd1 . If you are in Z, please complete this form for a Airtable access request: https://airtable.com/shrrsqj6VUPchwJeL .
+
+
+Airtable Best practices:
+Some of the Airtable best practices include sharing Airtable access with stakeholders and conectng your Airtable database with the Global Research Repository.
+
+
+Sharing Airtable access with stakeholders: You are able to easily share view-only links to any of your base views. View-only links allow your non-Airtable using stakeholders to keep up to date on your research projects without being able to edit your data. Pro tip: Never share using the “Share” button on the top right corner and inputting an email address. This is a dark pattern from Airtable which will request a license for that email address. Requests through this channel will be denied. What if I want my stakeholders to input data? Set up a form view. Your teammates can then log data that’s directly input into your team base.
+Global Research Repository: This is the main Airtable base the Software research organization uses. It stores all the research studies being done by product teams and creates visibility for the work being done across the organization. 
+
+
+Track your work: Watch this how-to video for more tips about tracking your work on Airtable: https://vimeo.com/437868428/d6a881ccaf
+
+
+Tools: Airtable: Elevate your research:
+1) Enter your work into the Global Research Repository and mark your project as “complete”. This will automatically publish your research to IBM Sheldon and allow it to be viewed by other IBMers. 2) Update your work in your own portfolio base to have it automatically sync to the Global Research Repository. This ensures the most recent version of your research is being viewed. 3) Modify your work in your team’s portfolio base by “adding” and “deleting” records. (To ensure consistency in how we track research, only our Airtable focals can modify the structure of our portfolio bases. Reach out to your focal if you need to make a change.)
+
+
+Join the #airtable-guild. Slack channel, tag @Casey Gollan for research specific questions.
+
+
+Tools: Airtable: Learning and support:
+Identify your Airtable focal and reach out for help. Focals are your best resource for Airtable questions, and serve as a link between researchers, Client Insights, and the Airtable team to share best practices, enablement support, and product updates.
+Airtable Support: For critical issues requiring more support, submit a request in the Airtable help center at https://support.airtable.com/.
+
+
+Find your Airtable focal (Division x Focal): Automation: Kathy Alvero and Amina El-Ashry; Data and AI: Kaitlyn Bryant and Rachel Miles Siajcic; New Logo Growth: Feride Diri; Security:	Michelle Chen; Sustainability Software:	Jerry Ervin; Public Cloud: Elizabeth Quigley; Z: Maryann Slama; Power Systems: Anu Kandimalla; Partner Ecosystem: Vinusha Devarakonda;
+
+
+An Airtable workspace is a collection of bases shared between a group of collaborators. After logging in for the first time, you will be added to the user group which grants you access to our shared workspaces.
+
+
+Airtable Workspaces:
+Business Unit: Software, Cloud
+  Name: IBM Software user research
+  Purpose: Organization-wide resources: Global Research Repository, browse all research activity across the organization, find and manage research participants across the organization, and an editable directory of people in our organization and what they do.
+  Permissions: Read Only
+
+
+Airtable Workspaces:
+Business Unit: Software, Cloud
+  Name: Portfolio workspace
+  Purpose: Each research team has their own base, where you can track your work: Automation, Data and AI, New Logo Growth, Incubators and Strategic Research, Public Cloud, Security, Sustainability.
+  Permissions: Editor - You can add and delete records but not change the structure of the base.
+
+
+Airtable Workspaces:
+Business Unit: Software, Cloud
+  Name: Projects workspace
+  Purpose: This is your space to create bases for any project.
+  Permissions: Creator - Do anything
+
+
+Airtable Workspaces:
+Business Unit: Software, Cloud
+  Name: Team workspace
+  Purpose: This is your space to create bases for any team or squad.
+  Permissions: Creator - Do anything
+
+
+Airtable Workspaces:
+Business Unit: Z
+  Name: Z Design Research
+  Purpose: This is your space to create bases for any product/project/team. Your base in this workspace must include the IBM universal fields (from the Z Template). From there, you can extend it in any way that you need.
+  Permissions: Creator - Do anything
+
+
+Airtable Workspaces:
+Business Unit: Z
+  Name: Z Research Hub
+  Purpose: Organization-wide resources: Z’s global research repository, browse all research activity across the organization, see all research that is discoverable to stakeholders in the IBM client Insights Hub.
+  Permissions: Creator - Do anything
+
+
+Airtale Key concepts and terminology:
+Airtable App:	An app (sometimes referred to as a base) is software built within Airtable that’s designed to structure, automate, and scale workflows and processes. An app consists of three layers: data, logic, and interface.
+Airtable Tables:	A table holds data about one type of item — for example, products, projects, tasks, campaigns. Each base needs at least one table. Individual tables appear as their own tabs in a base.
+Airtable Fields:	A field is a vertical column in a table. It contains the details or metadata for each record in the table.
+Primary field:	The primary field is always the first column, or field, in any table. It represents a description of each record in the table and cannot be deleted, moved, or hidden. The primary field is used as a brief description of a record in other parts of the UI.
+Airtable Records:	A record is a horizontal row in a table. It contains items you’re trying to track in the table. Airtable will try to customize terminology to match your table (e.g. projects, tasks, etc.)
+
+
+
+Airtale Key concepts and terminology:
+Airtable Views:	A view is a particular way to look at and organize the underlying data in a table. The default type of view is a grid, but other types include form, calendar, gallery, and Kanban. A given table can have multiple views (and multiple types of views). Views can also be configured based on permissions, with collaborative, personal, and locked views.
+Airtable Automations:	Airtable automations always include a trigger and one or more actions. Triggers and actions can be native to Airtable or integrated with other popular software applications. Automations are a useful feature for reducing repetitive and/or tedious tasks associated with your work.
+Airtable Interfaces:	Interface designer is the tool that lets builders create visual interfaces powered by base data for end users.
+Extensions:	Airtable extensions plug into the workflow you’ve built in your base, but allow you to add extra functionality like generating dynamic, at-a-glance summaries inside the base itself.
+
+
+Explore the IBM Airtable HQ and learning hub community base where you can find: Trainings and webinars, FAQs, User guides, Best practices, Base templates, New features.
+Ready to learn more? Master Airtable with a seven-part video series on YourLearning. Take a deep dive into research-specific topics and get your Think40 hours.
+Don’t forget to add the time you spend learning any tool to your Think40 hours: 
+- Masterclass: Airtable for researchers (PDF) at https://ec.yourlearning.ibm.com/w3/series/10263297?layout=grid
+- IBM Airtable HQ and hub community base at https://airtable.com/appXVKxwM8kUgQNCT
+
+
+Join #airtable-guild on Slack for community Q&A and product updates.

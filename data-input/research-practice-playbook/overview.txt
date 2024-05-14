@@ -1,0 +1,23 @@
+UX Research practices
+
+Welcome to the UX Research Practices Playbook
+Whether you are a seasoned researcher or new to the field, this playbook aims to provide you with valuable insights and practical tips for end-to-end research activities.
+
+User experience research
+We’ve laid out everything you need to know about the process of doing research at IBM. You’ll find best practices for everything from gathering research needs, scoping and prioritizing projects through recruiting, planning, conducting, gaining insights, reporting and tracking the impact of your research. Additionally, you’ll find templates, examples and other resources for each stage of research.
+
+The main stages in the UX research process that govern most projects follow these steps:
+1. Scoping research
+2. Planning research
+3. Recruiting participants
+4. Conducting research
+5. Gaining insight
+6. Reporting research
+7. Tracking impact
+
+This playbook is meant to serve as a general framework, and the research approach may differ depending on team, and organization, such as Consulting, Software and Infrastructure. We encourage you to collaborate with your team to evaluate specific details and adapt the guideline to your unique team’s needs and objectives.
+
+Research is a repeatable process. While the type of project you are starting, the objectives, participants and methods will change from project to project, stimulus, recruiting, analysis, synthesis, reporting and tracking will remain similar. Use this playbook to create a standard structure for your research. Having a repeatable process will allow you to focus your energy on being creative in your research, not the operations.
+
+Additional resources for people who do research: Go-to-market research handbook:
+In the Go-to-market research handbook you will find guidance and tips on how to implement go-to-market research, covering the entire process, along with samples from real research projects, templates and references.

@@ -1,0 +1,256 @@
+UX Research Support and FAQs
+
+Recruiting Participants: Incentives
+Can I give BluePoints to IBMers who participate in my study? 	Yes, pending budget approval to do so. Bluepoints are not available to contractors or interns.
+
+
+Recruiting Participants: Incentives
+Can we send incentives from Tremendous to our User Interview panelists? 	No, we are no longer using Tremendous. Find direction on providing incentives in User Interviews here. https://pages.github.ibm.com/reops/ux-research/ux-research-tools/user-interviews
+
+
+Recruiting Participants: Research agreements
+Can I use the User Engagement Agreement (UEA) for things other than user research?	No, the UEA is specifically for conducting user experience research activities. The UEA should not be used for any advisory boards/councils (e.g., Z Design Council), this will require an FPA and an A/V consent form if there's expectation to record the engagement.
+
+
+Recruiting Participants: Research agreements
+Can I use the User Research Event Participation Agreement (UREPA) or the User Research Participation Agreement (URPA)?	These agreements have been replaced by the User Engagement Agreement (UEA). Please discontinue use of these agreements.
+
+
+Recruiting Participants: Research agreements
+How can I send the User Engagement Agreement (UEA) in the User Engagement Hub (UEH)?	"If using client list, you can directly send the UEA in the User Engagement Hub.
+Start by signing-up the user if they are not already in the Hub.
+Then, go to ""My Prospects"" on the right hand side, under your profile.
+Select the participant(s) you want to record for the upcoming study.
+A blue bar will appear where you will be able to select ""Send UEA"", and an email will automatically be sent to the participant to review and accept."
+
+
+Recruiting Participants: Research agreements
+How should I handle sharing sensitive information in a communication?	Never send non-GA information in an email or newsletter. If presenting this information, be sure all viewers have signed an NDA.
+
+
+Recruiting Participants: Research agreements
+What does the User Engagement Agreement (UEA) cover?	"The UEA covers a research study. Some studies can last longer that a single interaction with your participant. As long as the research study is one of the same focus, goal, product, etc. then the participant will not need to sign another UEA until that changes. 
+Under this agreement, participants may share information about their experience and agree to not share confidential information about their company. IBM may share confidential information that users agree not to share for 5 years."
+
+
+Recruiting Participants: Research agreements
+What should I know about the Feedback Program Agreement (FPA)?	The Feedback Program Agreement (FPA) is a company-level agreement that allows IBM to dive deep into question's about the user's company. It can be sent out and tracked through the User Engagement Hub. The FPA is good in perpetuity, meaning that as long as it has been signed by someone with signing authority in the client company it is valid. Anyone with signing authority in the company should sign it (e.g., VP). It does not include consent to record audio and visual. This can only be granted by the individual. Please use the A/V consent form. This agreement covers beta programs unless we are asking users to access new, unreleased software or cloud environment - this would call for a new early agreement to be introduced and signed.
+
+
+Recruiting Participants: General
+What options are available for recruiting participants for UX research studies? For recruiting current IBM customers as participants, use the UEH (User Engagement Hub). For recruiting non-IBM customers, use Respondent.io or User Interviews. For Recruiting IBMers as research participants, contact them though internal channels such as email and Slack. If these options to recruit for your study aren't working well enough to fill the number of participants needed, there is an option to use an alternative vendor service for recruitment. The current recommended tools for specialized, niche recruitment is GLG, Sago (formerly Schlesinger), and Applause. These will require extra approval so consult your manager.
+
+
+Recruiting Participants: General
+Can I recruit employees of competitors to be a research participant? Is there a protocol? 	Yes. Make it clear that you're from IBM, use your IBM email address, and remind them before showing anything proprietary that they've signed an NDA.
+
+
+Recruiting Participants: General
+Can we publish the same screener on multiple platforms?	This is encouraged, and precisely why two different platforms are available! Researchers commonly try to collect 50% of their desired total participants from each tool, but please keep in mind a panelist may receive two invitations to your study if they are on both platforms.
+Does Research Operations handle recruitment for researchers?	No, our model is self-service. Check out our page about recruitment for more information.
+
+
+Recruiting Participants: General
+Does Research Operations handle recruitment for researchers?	No, our model is self-service. Check out our page about recruitment for more information.
+What options are available for recruiting for research?	"For third party, we have
+
+
+Recruiting Participants: General
+Where can I find the latest research consent forms?	Look for more information here. https://pages.github.ibm.com/reops/ux-research/recruiting-and-governance
+
+
+Research Tools: User Insights Hub (UIH)
+How do I fix broken Box links in User Insights Hub?	When you’re adding Box links to User Insights Hub, make sure they are set to “anyone in the company”! Otherwise other IBMers won’t be able to see your materials.
+
+Research Tools: User Insights Hub (UIH)
+For security reasons, Box expires permissions on a rolling basis. If you find a broken Box link in User Insights Hub, reach out to the researchers listed on the project and let them know so they can fix it!
+
+
+Research Tools: User Insights Hub (UIH)
+What are research highlights? 	Highlights are a standalone unit of research content. There are 3 types of highlights — findings, insights and recommendations. Findings are a set of facts, patterns in the data, or summaries across it. Insights are the reason or correlation behind the findings, why you think they occurred. Recommendations are what to do with actionable insights, focusing on specific outcomes for the users. Research highlights are a new format being used within IBM Software.
+
+
+Research Tools: User Insights Hub (UIH)
+What is the process for entering content into the User Insights Hub?	Software teams have been onboarded to the Insights Hub, with other teams being added. If you are unsure if your team uses the UIH, ask in #ibm-user-insights-hub. Check out the most recent guidance for content in the UIH here https://airtable.com/appxhEfPfsvo3wH7E/pagiyBzDcoDBeo4Kl?aGT5A=recJnGpMwELQJssgT&UCEBA=reczPFzwuFFbMxMOy
+
+
+Research Tools: Airtable
+Can Airtable integrate with Github?	Airtable integrates with public projects hosted on github.com, but does not currently support integration with IBM internal projects hosted on github.ibm.com. For further questions, contact Casey Gollan.
+
+
+Research Tools: Airtable
+How can I share access to Airtable with my stakeholders (e.g. designer, product team, engineering, etc.)?	"Consider a shared view or shared base link. We do have a limited number of licenses reserved for collaborators outside of our direct team. You can submit requests via ibm.biz/ux-tools-request (and for multiple people, you can do one request with a comma separated list).
+
+
+Research Tools: Airtable
+How do I connect my Outlook Calendar and Email to Airtable?	See the support article on w3, here: https://w3.ibm.com/#/support/article/airtable-integration
+
+
+Research Tools: Airtable
+How do I publish my work in User Insights Hub?	Projects marked "Complete" in your team base are automatically published to User Insights Hub.
+
+
+Research Tools: Airtable
+Is there a best practice for logging UserZoom sessions in Airtable?	There's no requirement to track sessions not from our panels, so if you want to track them for your own needs feel free to do it however you want.
+
+
+Research Tools: General
+Do I have access to the UX Research tool stack, even if I am not a Software and Cloud Researcher?	Currently the tools listed on this site are only provisioned for Software and Cloud researchers. Check with your leadership on other routes if you aren't eligible. 
+
+
+Research Tools: General
+How can I gain access to EnjoyHQ?	Find the tool access request form here. https://airtable.com/shrx4AkfUCbhLxNd1
+
+
+Research Tools: General
+How can I transcribe, tag, and/or code my content in EnjoyHQ?	If you didn't initially use EnjoyHQ, check out how to upload document files. You can also use UserZoom in future sessions- this is a moderated feature which records your interviews which you can then bring into EnjoyHQ for analysis. Here's a walk-through of how to set it up. 
+
+
+Research Tools: General
+Tooling specific funds - any idea when they will be replenished?	The Fall Plan cycle will determine the tooling funds available from each Business Unit for 2023. IBM will work with our tooling vendors 3 months before the renewal date to secure the 2023 contracts.  For Incentive tools, IBM will top-up account balances throughout the year, as needed.
+
+
+Research Tools: General
+What are the approved UX Research tools at IBM?	The following third-party tools are approved for UX Research at IBM (Software division): Airtable, Respondent.io, User Interviews, UserZoom, EnjoyHQ, Alchemer (until February 2024), Qualtrics (starting January 2024). Please refrain from using any third-party tools not included in this list, such as Google cloud products (Meet, Drive, etc.) and similar products. Note that UX Researchers in IBM Consulting may use Microsoft Forms, although Qualtrics is strongly encouraged.
+
+Research Tools: Alchemer
+How to learn more about the survey tool transition at IBM, from Alchemer to Qualtrics?	As already announced, IBM is replacing Alchemer by Qualtrics as official survey management tool, starting in January 2024. Learn more details about this transition and exact dates for licences activation/deactivation at 
+https://w3.ibm.com/w3publisher/toolbox/software-apps/qualtrics/qualtrics-faq
+
+
+Research Tools: AskUXR
+Can I use AskUXR to generate research artifacts for me?	AskUXR was designed for answering questions about UXR at IBM. Assistance on UX Research work such as generating research artifacts (parameter-based personas, journeys, etc) is not supported. Specific tools are being planned for that purpose in the near future.
+
+
+Research Tools: AskUXR
+Does AskUXR have similar capabilities to ChatGPT?	No, AskUXR is not a fluid conversation bot, even though sometimes it gives the opposite impression. It's just a Q&A tools,  and it doesn't have memory, so if you ask it to recover an information that was provided in the beginning of the session it won't know.
+
+
+Research Tools: AskUXR
+What is AskUXR?	AskUX is an experimental Q&A tool, designed to help IBMers find UXR-related information in a faster and better way. It's officially based on the UX Research Playbook (https://pages.github.ibm.com/reops/ux-research/research-practice-playbook/overview) although it covers parts of the UXR website for a better experience.
+
+
+Research Tools: AskUXR
+How can I provide feedback to improve AskUXR?	To provide a general feedback about AskUXR, please use this form at https://airtable.com/appButViLQv4vGjfz/pagpZYRk06tX9otLV/form. To provide feedback about specific answers the tool is providing, please use the 👍👎 icons below each answer.
+
+
+Research Tools: AskUXR
+How is the AskUXR user feedback stored and used to improve the tool?	AskUXR collects the 👍 👎 feedback anonymously provided by users to improve its answer in the following way: 1) The user provides a "score" using the thumbs up or thumbs down icon, plus some additional information (optional). 2) This information is sent to an Airtable, with the following fields: User Question, User score, Bot Response, Time/date created, Prompt used (to generate the model response). 3) The AskUXR team manually reviews the feedback and manually improves the content on the UXR Playbook or the model prompt if needed. No AI training or fine tuning is performed, and the responses remains anonymous, unless the user voluntarily adds any PII in case they want to be contacted for follow up.
+
+
+AI and UX Research
+How to use AI in research analysis + synthesis?	This is a big topic full of possibilities and risks. Check the work of the GenAi for UXR team for guidance (and roadmap) on the #genai-for-uxr slack channel and  the GenAI for UXR guidelines (work in progress) at  https://app.mural.co/t/uxresearch0879/m/uxresearch0879/1695421608564/abefba6613a14097543007b76e1b50fb4928fa60?sender=u5c6913b680030b988e8f1277
+
+
+AI and UX Research
+Can I use the new AI features within 3rd party UXR tools such as UzerZoom, Airtable, etc?	At the moment, the short answer is no. In July 2023 the IBM CIO (Chief Information Office) released the Employee Guidance - ChatGPT and Similar Third Party Generative Ai Tools. It states that ""IBMers may not use third party generative AI tools for IBM business or with IBM or client data"". As a rule of thumb, ""always assume that sharing data with these third party tools is akin to publicly disclosing that information."".
+There is an exception if you are a UX researcher in IBM Consulting and the client asks IBM to use a 3rd party GenAI tool. In this case, ""the terms between IBM and the client must be clear that the client is responsible for procuring the tool and the client assumes all responsibility for the tool’s output"".
+The document is available at https://pages.github.ibm.com/ciso-psg/main/supplemental/GenAI.html and we highly encourage you to read it.
+
+
+AI and UX Research
+As a UX Researcher, how can I have access to watsonx?	UX Researchers planning to use watsonx in their research work should contact their managers for an internal upgrade of their IBM Cloud accounts. Visit the #internalaccount-upgrade slack channel for more instructions on how to proceed.
+
+
+AI and UX Research
+What is the UXR for GenAI work stream?	The goal of GenAI for UXR works stream is to integrate Generative AI into IBM products by leveraging the power of UX Research. The primary focus is on enhancing the product and User Experience by providing new UXR techniques, training, and guidance for conducting UX Research on products that incorporate generative AI. The initiative is led by Rachel Miles, under the leadership of John Bailey, Head of UX Research - Software. Karel Vredenburg, VP of UX Research, provides vision, support, and guidance on all UXR for GenAI initiatives.
+
+
+AI and UX Research
+What is the GenAI for UXR work stream?	The goal of GenAI for UXR work stream is to utilize GenAI to enhance the work of UX researchers and the UX research discipline at IBM, while also mitigating the various risks associated with its use. The focus is on augmenting the work of UX researchers and improving the UX research process by providing tools, protocols, guidance, and training. The GenAI for UXR initiative is led by Carlos Rosemberg, under the leadership of Renee Albert, who heads the UX Research Transformation team. The initiative works closely with the User Engagements & Insights team, led by Gord Davison, to achieve its goals. Karel Vredenburg, VP of UX Research, provides vision, support and guidance on all GenAI for UXR initiatives.
+
+
+AI and UX Research
+How can I provide feedback to improve AskUXR?	To provide a general feedback about AskUXR, please use this form at https://airtable.com/appButViLQv4vGjfz/pagpZYRk06tX9otLV/form. To provide feedback about specific answers the tool is providing, please use the 👍👎 icons below each answer.
+
+
+AI and UX Research
+With the recent advancements in Generative AI, what initiatives are being undertaken by the UX Research organization at IBM in this area?	In January 2023, the UX Research organization, led by Karel Vredenburg, VP of UX Research, began actively identifying opportunities and risks related to the intersection of Generative AI and UX Research at IBM. Two work streams were created: GenAI for UXR, which aims to integrate Generative AI into the UXR workflow, and UXR for GenAI, which focuses on applying the best UXR methods and techniques to improve IBM products powered by Generative AI.
+
+
+Slack channels:
+We’ve curated a list of resources by topic from this site and others, along with FAQs for the questions that we get asked most frequently in Software. Be sure to bookmark or add them to your Slack favorites.
+
+Research community Slack channel:
+#ux-research-software (Ask questions, share ideas and resources with your peers in Software research.)
+#ibm-ux-research (Ask questions, share ideas and resources with all IBMers interested in UX research.)
+
+UX Research Insights Slack channel:
+#ibm-user-insights-hub (Get help and give feedback for the User Insights Hub, a.k.a. Sheldon, User Research Library.)
+
+User Engagement Hub Slack channel:
+#sup-and-user-engagements (Ask questions about recruitment, the SUP tool, incentives, forms, third-party recruitment tools.)
+
+Research tools Slack channel:
+#guild-alchemer, #airtable-guild, and #userzoom (Guidance and peer support, plus ask questions of the representatives from our tool vendors.)
+
+{
+"Research Skills and Practices": [
+{
+"Site or Channel": "Skills growth program at https://pages.github.ibm.com/cdai-design/practices/skills-growth-program/skills-growth-program",
+"Description": "Find information about research methods and connect with SMEs."
+},
+{
+"Site or Channel": "#ux-research-software",
+"Description": "Peers in Software research. Ask questions, share information and resources."
+},
+{
+"Site or Channel": "#ibm-ux-research (formerly #ibm-design-research)",
+"Description": "Anyone in IBM who is interested in UX research. Ask questions, share information and resources."
+}
+],
+"Research Tools": [
+{
+"Site or Channel": "UX Research tool enablement guides",
+"Description": "Best practices, how to get access, and more resources in these guides created for IBM UX researchers."
+},
+{
+"Site or Channel": "Vendor websites",
+"Description": "In-app chatbots — most of our vendor sites have one; try them out for quick answers (links in the tool enablement guides)."
+},
+{
+"Site or Channel": "#userzoom",
+"Description": "Guidance and peer support, plus ask questions of the representatives from our tool vendors."
+},
+{
+"Site or Channel": "#guild-alchemer",
+"Description": "Guidance and peer support, plus ask questions of the representatives from our tool vendors."
+},
+{
+"Site or Channel": "#airtable-guild",
+"Description": "Guidance and peer support, plus ask questions of the representatives from our tool vendors."
+}
+],
+"Recruiting and User Engagement": [
+{
+"Site or Channel": "Recruiting page at https://pages.github.ibm.com/reops/ux-research/recruiting-and-governance",
+"Description": "An overview of recruiting practices, tools, forms and incentives."
+},
+{
+"Site or Channel": "User Engagement Hub (UEH) at https://sponsor-user-program.wdc1a.cirrus.ibm.com/learn/details",
+"Description": "Learn about the program and how to work with sponsor users."
+},
+{
+"Site or Channel": "UEH FAQ page at https://sponsor-user-program.wdc1a.cirrus.ibm.com/help/faq",
+"Description": "FAQS for the UEH."
+},
+{
+"Site or Channel": "#user-engagement-hub (previously #sup-portal-updates)",
+"Description": "Ask questions about recruitment, using the UEH tool, legal, incentives, participant agreements, third-party recruitment tools."
+}
+],
+"UX Research Insights": [
+{
+"Site or Channel": "Tools and resources page",
+"Description": "Find links to resources for secondary research and qualitative customer insights."
+},
+{
+"Site or Channel": "#ux-research-software",
+"Description": "Peers in Software research. Ask questions, share information and resources."
+},
+{
+"Site or Channel": "#client-insights-hub (previously #ibm-sheldon)",
+"Description": "Find relevant resources about the User Insights Hub, aka Sheldon, ask questions, and share your feedback."
+}
+]
+}

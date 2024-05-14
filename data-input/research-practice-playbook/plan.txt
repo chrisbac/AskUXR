@@ -1,0 +1,179 @@
+Planning research
+
+The questions and context derived from research scoping serve as a good foundation to create a research plan. This is the time when researchers define what is the best way to go about finding answers to their questions.
+
+The steps to plan research include:
+1. Pre-planning
+2. Planning
+3. Selecting participants
+4. Selecting research methods
+
+A user research plan should align the team on the user research to be performed. Consider the stakeholders and take into account who will be impacted by the research. Stakeholders could be members of your product team that may help advise and conduct the research, the people receiving the results, or the community affected by the results. To create a user research plan, you need to identify:
+1. The stakeholders will provide input and review the research plan and the best way and cadence to communicate with these stakeholders
+2. The research objectives and research questions that need answers, focusing on the most important that will reduce risk of the product’s success
+3. The outcomes and intended impact of the research — how are you going to put the research into action? Make it measurable!
+4. The best approach for achieving these objectives, including research methods and metrics
+5. Who is needed as research participants and how will we recruit them
+6. What is the timeline - consider when the research results would be most valuable and how this research fits into your larger research roadmap
+
+Planning research, Step 1: Pre-planning research
+
+Before starting your research plan, look for existing research, secondary research, and read up on product documenbest prtation related to your intended research scope. In other words, actices for pre-planning research include:
+1. Search for prior research in the User Insights Hub, and any pre-existing team research folder
+2. Identify available secondary research (more information in Scoping resources.)
+3. Get familiar with the product, Seismic is a good place to find product information and refer to the IBM Documentation site for products (links in resources below).
+
+IBM market research assets and programs to help on pre planning research:
+1. Published market views, buyer profiling
+2. Brand health monitor and buyer perception studies
+3. Clarity (competitive positioning)
+4. Medallia
+
+Industry analyst and others (most available through IBM SSO) to help on pre planning research:
+1. Northern light (external research and news)
+2. IDC data products and services - Market Glance, MarketScape, FutureScape, MaturityScape, Market Analysis Perspective.
+3. Gartner services - Magic quadrant and Critical Capabilities, Hypecycle, Buyer Insights, Market Guide, Tech Radar
+4. Forrester services - Wave, Buyer Insights
+5. 3rd party peer-to-peer reviews (G2 Crowd, Gartner peer Insights, Trust Radius)
+
+Planning research, Step 2: Planning the research
+
+The steps to create the research plan artifact include:
+1. Scope a plan
+2. Write the plan
+3. Involve stakeholders
+4. Define research objectives
+5. Update and share plan
+
+Planning research: Scope a plan
+
+From conversations and scoping activities with stakeholders, you can start creating a research plan. Each research plan has a limited scope of research questions and intended outcomes for a specific research study. For more information on scoping, see the Scoping page.
+
+Planning research: Write the plan
+
+A research plan is a document owned by the entire team that specifies what research will be conducted and how it will inform the team’s work. A plan’s objectives should be straightforward and unambiguous, so that everyone can align on the research.
+
+The research plan serves as the single source of truth aligning you as the researcher and the stakeholders around the research to be done.
+
+Writing a research plan is a key step in: 
+1. Defining the research for yourself. It helps to think through your process and identify any gaps or issues in the research planned.
+2. Confirming the research objectives to your stakeholders. The research objectives drive the methods you choose and who you will need as participants. Good objectives also relate to how you will leverage the insights.
+3. Tracking and demonstrating research impact. Including portions as a rationale in your research playback (and link to the plan) so the intention is preserved when people re-visit your research down the road.
+
+Planning research: Involve stakeholders
+
+The research plan and materials should be socialized with stakeholders providing opportunity to align on intent, timeline and expectations. The UX research critique cheat sheet, below, gives you ideas on when, why and how to do it.
+
+Planning research: Define research objectives
+
+Research objectives define the primary goals and scope of your research. A plan’s objectives should be straightforward and unambiguous, so that everyone can align on the research. 
+
+To define research objectives, follow these steps: 
+1. To help ensure that research is outcome-driven, start with the informed experience outcomes — e.g. the features your team are working on and need user feedback to prioritize. Consider what you and your team are questioning about your current design. 
+2. Then, map the informed experience outcomes to research objectives - these are bigger picture questions about your user, their environment, and their relevant tasks that would affect their experience when using your design. 
+3. Finally, assign a priority level to guide you in which objectives need to be absolutely met. Consider how much risk you take on if you were to not meet the objective. Priority levels: critical, high, low. See Prioritizing in the Scoping research section.
+
+Example of research objective definition:
+Informed experience outcomes: Collect feedback on user needs for data segmentation and relationships between accounts (parent/child hierarchy, etc.).
+Research objectives: Understand how users organize their client accounts, and organize their security teams + analysts across their client accounts in order to enforce separation of data between clients.	
+Priority level: Critical
+
+Other considerations (best practices) for your objectives:
+1. If research objectives are phased as questions, be sure your stakeholders know you don’t necessarily intend to ask participants those exact questions.
+2. Make it measurable. Consider how you will measure success. If the research uncovers issues or informs a change of direction, it is still successful.
+3. Limit the scope. Pick particular area or variable to focus on to better define objectives and the parameters of your research. You likely can’t answer every research question in a single research activity.
+4. Establish realistic expectations. Achieve success by defining realistic objectives that have achievable expectations. Set objectives that are challenging, yet attainable.
+5. Define the timeline. What are the most important objectives that will make the most impact? How can you best meet these objectives in a timely manner? Don’t forget to include time for synthesis and reporting.
+
+Planning research: Update and share plan
+
+Your research plan becomes your “contract” providing details of what is to be delivered, when and why. It is a tool to ensure alignment and efficiency for your work. Make it a habit to revisit, keep it up to date with links to all the session materials, mural and final deliverables. Share it with stakeholders to give status updates and keep awareness of what you are trying to accomplish.
+
+Planning research, Step 3: Select participants
+
+You need to find the right participants for your research, which is based on the target market and research objectives. The participants should represent the target market population, such that the smaller group of participants (the sample) accurately reflects the results you would get from the larger population. You should also consider if you will be using these same participants for each project variable, e.g. will each participant be subjected to one design option or multiple.
+Recruiting participants is an important, and potentially time consuming process. Be sure to start early. See the Recruiting page (https://pages.github.ibm.com/reops/ux-research/research-practice-playbook/recruit) for more detail on types of participants and rules for engaging them.
+
+The steps to select partipants during the planning phase are:
+1. Define the participants be identifying which persona is relevant to your study (e.g., who would be using this feature?).
+2. Identify the sorts of tasks they do.
+3. Identify how you want to recruit them, and any screeners:
+3.1. User Engagement Hub
+3.2. Respondent
+3.3. UserInterviews
+3.4. Early Access Program
+4. Identify how many participants will be needed (sample size), depending on what type of data you plan to collect
+5. If running a pilot study, where can you find participants? Find more details on running pilot studies in Conducting.
+6. Plan your budget, if the participants are eligible for incentives. Learn more about when to provide incentives in Recruiting.
+
+Planning research, Step 4: Selecting research methods
+
+A research method is a technique for collecting user experience data that will inform design decisions. A research project utilizes at least one method, which is determined by the type of research, recruitment constraints, and time constraints. Methods might be exploratory and generative or evaluative, depending on the project’s needs and point in the development process. The research plan should describe how the methods help answer the research questions and how they will be implemented.
+When deciding a research method, consider what data you need and how it can be measured. For example, data may be discrete (binary pass/fail success rates) or continuous (task times or rating scale data).
+
+Below is a sample of various research methods. A more thorough breakout of research methods is planned for 2024.
+
+Research method: Formative usability assessment
+Description: A task-driven qualitative assessment of products to understand users’ expectations of a product and diagnose usability issues.
+When to use: Early stage of development
+Requirements: Robust low-medium fidelity prototype for users to complete tasks.
+
+Research method: RITE testing
+Description: An iterative usability testing method where changes to the prototype are made as soon as problems are identified.
+When to use: Mid-late stage of development
+Requirements: Commitment from decision-makers to observe sessions and implement design changes immediately.
+
+Research method: Desirability study
+Description: An attitudinal inspection method used to gauge how a design makes a participant feel. This is not a usability test method.
+When to use: Late stage of development
+Requirements: Final visuals (not necessarily a live instance).
+
+Research method: Complexity analysis
+Description: A usability inspection method that is based on finding and quantifying impediments that get in the way of easily learning and using software.
+When to use: Any stage - use to understand how easy a workflow is to complete
+Requirements: Need a full end-to-end workflow via a prototype.
+
+Research method: Heuristic evaluation
+Description: A usability inspection method used to find usability flaws based on judging based on known usability principles.
+When to use: Any stage - use to understand the core usability of any page or workflow.
+Requirements: Need a high-fidelity prototype or page.
+
+Research method: D&UX design and UX review (internal)
+Description: A usability inspection method to determine overall design quality based on IBM standards for design quality.
+When to use: Late stage of development
+Requirements: Need a working environment.
+
+The steps to selecting research methods are:
+
+1. Create scripts and discussion guides:
+Depending on the research method to be performed, creating scripts during the planning phase can make conducting the research easier. Scripts might be for participant interview, requirements gathering, or a usability test.
+The creation of a discussion guide helps ensure the data you collect during sessions map to your research objectives and follow best-practices such as asking open questions which are not leading and avoid introducing bias. While the guide documents what questions you plan to ask during the session, it’s okay if you don’t follow the questions line by line due to the flow of the conversation during the session. See more about mitigating bias in Conducting research page (https://pages.github.ibm.com/reops/ux-research/research-practice-playbook/conduct).
+
+2. Create and gather needed resources:
+While completing the research plan and reviewing it with stakeholders, you can start creating and gathering any needed resources such as Mural exercises, facilitation decks, prototypes or demo system info, surveys, etc. Once the plan is reviewed with the stakeholders, you’ll need to confirm you have all the resources needed before you can begin conducting your research.
+
+Templates and examples for selecting research methods:
+Depending on the type and depth of the research project, researchers leverage various templates to create the research plan that best suits the project and stakeholders needs. Make your research plan as concise as possible, but without leaving out pertinent information. Some templates to help selecting research methods include:
+1. Research plan template (Box) (https://ibm.box.com/s/jpkmkajebdjkf37s7jb7w6idkay1dhit)
+2. Research plan playback example (https://ibm.box.com/s/rg4d2sdg9t5t0max7f7dara5w9v6eb45)
+3. UX Research critique cheat sheet (https://ibm.box.com/s/yw2yo7jr88vm7fzgyp9b2qxhy9e4892u)
+4. Research plan template - multi-phase (https://ibm.ent.box.com/notes/1292226265730?s=qjis8sbv8ibnjf1jbd92lnd53xdvhkiw)
+5. Phased study timeline template (https://app.mural.co/invitation/mural/aiapplicationsdesign4698/1619450057728?sender=setarasingh8389&key=df3b398e-9f3d-40a1-81fc-527946bda850)
+6. Example discussion guide A — card sort (https://ibm.box.com/s/g4c9plq3lf3sess0xk8p6lu5u2h6m1n7)
+7. Example discussion guide B — design review (https://ibm.box.com/s/x2tjr1qf5i34jrmkdi5474by18nm07um)
+8. Example discussion guide C — interview (https://ibm.box.com/s/7uc5kvwoynzkt34yfbzcdg8innwq03a4)
+9. Example discussion guide D — discovery session (https://ibm.box.com/s/g4c9plq3lf3sess0xk8p6lu5u2h6m1n7)
+10. Questions and Assumptions  (https://www.ibm.com/design/thinking/page/toolkit/activity/assumptions-and-questions)
+
+Resources (articles, tutorials, documentation, etc.) for helping select research methods:
+1. User Insights Hub — IBM UX research respository (https://sheldon.wdc1a.cirrus.ibm.com/user-research-lib?s=&p=1&order=rel&size=10)
+2. IBM Documentation site — product information (https://www.ibm.com/docs/en)
+3. Seismic — hub for product sales information, including value props, spec sheets, one pagers (https://ibm.seismic.com/app#/home)
+4. Nothern Light — external research and news (https://ibm.northernlight.com/page.php?id=523)
+5. Recruiting research participants — official IBM guidance (https://pages.github.ibm.com/reops/ux-research/research-practice-playbook/recruit)
+6. UX Research Methods Introduction Learning Plan (Sustainability SW Design) (https://yourlearning.ibm.com/activity/PLAN-92883EF9E715)
+7. UX Research Methods Advanced Learning Plan (https://yourlearning.ibm.com/activity/PLAN-9C5D29264230)
+8. External resources:
+8.1. When to Use Which UX Research Methods (NNg) (https://www.nngroup.com/articles/which-ux-research-methods/)
+8.2. The Ultimate Guide to UX Research Methods (https://dscout.com/people-nerds/ultimate-guide-ux-research-methods/)
+8.3. How to identify and avoid leading questions in UX research (https://maze.co/blog/leading-questions-examples/#:~:text=There%20are%20four%20types%20of,services%20met%20your%20needs%2C%20right%3F)

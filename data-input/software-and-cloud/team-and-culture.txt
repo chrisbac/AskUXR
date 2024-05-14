@@ -1,0 +1,36 @@
+Our community
+IBM UX researchers span Software, Public Cloud, CIO, Infrastructure, IBM Research, Consulting and iX, Partner Ecosystem, Red Hat and more.
+
+UX Research community
+All UX research teams at IBM
+A cross-IBM advisory group was formed by Karel Vredenburg to foster community, share knowledge, and join efforts where possible. Learn more about the Research Leadership Team at https://pages.github.ibm.com/reops/ux-research/welcome-to-user-research/research-leadership-team/.
+
+Please stay tuned for more information on other organizations as we continue to build out this site.
+
+Software team
+With direct management responsibility for the Software UX Research group, Karel Vredenburg has a broader mandate of increasing the impact of all UX research at IBM. 
+
+You’ll find our leaders below or can browse the entire Software research team org chart:
+
+
+IBM UX Research Senior Leadership:
+Karel Vredenburg (VP of IBM UX Research): Karel is currently IBM Global Vice President, UX Research, reporting to Justin Youngblood (Vice President, Product Design), and responsible for leading the company’s global team of researchers and the insights they provide to product, services, and executive teams. Karel has led design and research in various roles worldwide at IBM for most of his three and a half decades with the company. He introduced User-Centered Design at IBM in the middle 1990s, led the company’s designers and researchers, developed a worldwide education program, a design and researcher toolkit, and published the book “User-Centered Design: An Integrated Approach”, describing IBM’s version of UCD. 
+With the reboot of the design program in 2013, Karel introduced and taught IBM's Enterprise Design Thinking and Design System to each of the business units of the company globally, software, consulting, sales, and infrastructure, and to hundreds of other companies, startup incubators, and universities. He founded the Design Executive Team comprised of top managerial design executives in each business unit and led the Design Leadership Board comprised of the technical and managerial design executives responsible for the review and appointment of Design Principals and Distinguished Designers. Karel was responsible for the design profession, designer skill development, and design culture for the 3,000 designers in the company and for external engagement, academic programs, and the IBM Design social media presence externally. Karel also serves as the head of IBM Studios Canada, is the IBM Innovation Corps executive for Canada, and is Industry Professor in the McMaster University DeGroote Schools of Business and Medicine. He co-founded the Future of Design Education initiative with Don Norman and co-leads it with Don and Meredith Davis. Karel blogs on design, technology, and optimizing the human experience at karelvredenburg.com and transformed his within company mentoring into a popular podcast "Life Habits Mentoring"​ which is available on all podcast apps. He did undergraduate, masters, and doctoral studies at the University of Toronto initially in cognitive science and clinical psychology which later led to research, specialization, and his life-long passion for, practice in, and leadership of design and research. He was also a lecturer during graduate school, teaching research methods and statistics and running the undergraduate thesis program. Karel's personal social media coordinates include @karelvredenburg on X (formelly Twitter), Instagram, and LinkedIn.
+
+Karel Vredenburg's direct reports:
+John H Bailey (Head of UX Research), Ellen Kolsto (Director of Strategic UX Research), Joan Haggarty (Research Design Principal, Sustainability), Ashwini Kamath (Research Design Principal, Digital Labor), Lauren Swanson (Head of UX Research Integration), Renee Albert (Head of UX Research Transformation), and Gord Davison (Head of UX Research Insights and Engagement, Incubators).
+
+John H Bailey's direct reports:
+Eleanor Bartosh (Program Director, Sustainability), Malc Couldwell (Senior Manager, Automation), Feridi Diri (Senior Manager, New Logo Growth Research and Design), Liz Pratt (Program Director, Data and AI), Nikhil Welankar (Head of UX Research, IBM Software, APAC-Japan), and Stevie Yap (Senior Manager, Security).
+
+Gord Davison's direct reports:
+Casey Gollan (Design/Engineering Manager and Architect, IBM User Insights Hub).
+
+Malc Couldwell's direct reports:
+Robin Langerak (Manager, Digital Labor).
+
+Liz Pratt's direct reports:
+Zack Nilsson (Research Manager, watsonx.data and watsonx.ai).
+
+Nikhil Welankar's direct reports
+Ashish Ganu (Manager), Sujeesh Joy (Manager).

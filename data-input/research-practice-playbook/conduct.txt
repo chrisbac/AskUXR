@@ -1,0 +1,277 @@
+Conducting research
+
+To lay the foundation for successful research, we need to begin with emphasizing the importance of collecting quality data. The quality of the data is directly proportional to the quality of its derived insights.
+
+The guidelines in the X Research Practices Playbook are meant to serve as a general framework. We encourage you to collaborate with your team to evaluate specific details and adapt the guidelines to your unique team’s needs and objectives. We want to acknowledge that, at IBM, we rely heavily on qualitative research. As such, this is largely the focus of this guide. Additionally, items specific to quantitative research are called out, and some tips apply across quantitative, qualitative, and mixed-methods research.
+
+Conducting research: Best practices:
+
+Best practices for conducting UX Research: Collecting quality data:
+Data collection describes the gathering, measurement, and control of information within a research activity. Raw data exist in many media: sticky notes, photographs, recordings, objects, survey answers, academic articles, customer complaints, error logs, analytics, and more. Gather data that reflect honest behaviors and reactions. The wording of your questions, your reactions to participants’ responses, probing, and other techniques are pivotal to conducting a healthy interview or other moderated research session. In surveys, question wording, among other details, is vital to the instrument’s validity. You’ll find a survey design template, along with other resources, in the Resource section. The collection techniques used can influence how users respond. Asking users to answer difficult questions over the phone, face-to-face, or in a survey can elicit different answers. The length of the study and timing of questions or tasks also may impact users’ responses. We recommend keeping study sessions short by limiting the number of research questions covered in a study. Further, consider randomizing the order of questions or groups of questions where appropriate, such as in surveys (for example, randomize the order of the features in a Kano study to counteract survey fatigue).
+
+Best practices for conducting UX Research: Using screeners:
+All studies benefit from proper participant screening. Screeners are short surveys sent to a participant pool during recruitment. Find more information about creating screeners on the Recruiting page at https://pages.github.ibm.com/reops/ux-research/research-practice-playbook/recruit.
+
+Best practices for conducting UX Research: Running a pilot test:
+We recommend you pilot test all studies in which you plan to collect data by posing questions or tasks to human participants. Pilot tests will help you identify how much time you need from a user in-session, feel comfortable with your prototype and asking questions, and solidify your question set and wording.
+
+If you are launching a study that includes a prototype and task instructions, we recommend you pilot with internal IBMers who were not involved in building the prototype. For surveys, schedule a few eligible participants to take the survey and think aloud with you on a video call. Use their questions and comments to improve the survey questions, structure, flow (logic), and response options.
+
+Best practices for conducting UX Research: Mitigating bias
+Bias can be introduced in a variety of ways, including through researcher-participant interactions, sampling issues, and data management problems. Most bias can be mitigated, but will never be fully eliminated (we are human, after all). What follows are some tips on how to mitigate bias and its impacts on your research. This is discussed in three phases, before, during and after the study.
+
+Best practices for conducting UX Research: Before the study:
+
+Best practices for conducting UX Research: Before the study: Plan the right study:
+Select a sampling strategy. Quantitative research relies on random sampling, wherein each member of the population of interest has an equal opportunity to be involved in your study. Simple random sampling is rarely possible, so other techniques are used to ensure a representative, random sample (for example: stratified random sampling). In qualitative research, sampling is purposive, meaning participants are chosen for inclusion based on their characteristics which are relevant to the study. Do unbiased recruitment and select diverse users. We recommend avoiding relying on a set of users that are convenient or were recommended through personal networks as it could introduce bias. Make an effort to collect replicable and consistent data that encompasses a broad range of real user experiences. 
+
+
+Best practices for conducting UX Research: During the study: 
+
+Best practices for conducting UX Research: Before the study: Be aware of the impact of phrasing:
+
+Confirmation bias: It is not uncommon to hear someone on a product team refer to “validating” or “proving” a design or a research question. In statistics, we learn that a hypothesis can not be proven correct, it can only fail to be proven incorrect. In psychology, we learn that people often acknowledge only that which aligns with (or “validates”) their prior beliefs. Consider reframing “validation” research as “evaluation” or research seeking to eliminate sub-optimal options. If we aren’t seeking to validate certain opinions in our work as researchers, we will be in less danger of influencing participants toward telling us the positive things we “want” to hear.
+
+Anchoring bias: People will base their choices off information given to them, which has implications for pricing studies, questions about acceptable wait times, etc. If you are interested in understanding the participants’ perception of some quantitative thing (e.g., pricing, storage units, etc.), we recommend only providing examples that are informed by prior research.
+
+Framing effect: Similarly to the anchoring bias, providing too much information through context and delivery can unavoidably influence participants’ behavior in your study. We as humans are naturally inclined to look for cues to guide our behavior. For this reason, we recommend against adding examples to your questions. If participants do not understand a question, it may be indicative of another issue: perhaps they are not the target user after all — or maybe we aren’t using the correct language.
+
+Best practices for conducting UX Research: During the study: Be aware of the impact of influence:
+Acquiescence bias: Acquiesence is when people provide responses they think you will find more favorable. It also means people are more likely to agree with Likert style questions that use agreement anchors. 
+
+Groupthink: People find it difficult to go against consensus. We recommend against interviewing in groups (focus groups), or you may encounter groupthink, a phenomenon in which an individual is unwilling to go against the opinions of the group. For example, if a more experienced and dominant participant speaks out first, others might avoid contradicting them and therefore not provide open and honest feedback.
+
+In-group bias: We all can identify with one or many different groups; for example, we are all IBMers. The same is true of our participants. In-group bias describes the tendency for people to give preferential treatment to others in their group, including preference for the group’s members, its characteristics, and it’s products, especially in comparison to others. Like groupthink, in-group bias can wreak havoc on data collected from group sessions, as it influences participants to agree with the group. This can also cause problems in studies conducted with participants who have a relationship with IBM (e.g., clients, business partners, and former IBMers). Another way to think of a group is as a set of relationships (formed by experience, gender, status, etc.), hence, data collected from current users in a competitive benchmark could be influenced by this bias (and several others we do not cover).
+
+Best practices for conducting UX Research: After the study:
+
+Best practices for conducting UX Research: After the study: Be aware of human error and variance:
+A good sample includes participants with a vast range of abilities, experiences, and competencies. When it comes to analyzing data from such a sample, it can be normal for some participants responses to not fit the general pattern of responses seen from other participants. If you are testing a new design which is intended to be used by “everyone,” you may see differences based on the type or amount of experience of your participants with similar systems. Sometimes these differences constitute “outliers” which may be due to errors during data collection or stem from issues in sampling. Sometimes a sample can be too broad for your research question — for example, maybe “everyone is our target user,” was too aspirational. And because we work with people, it is also true that such variance can be “random error”, attributed to things that can’t be controlled for by study design. When reviewing your data, carefully consider whether what you’re seeing are true outliers (and should be removed before analysis) or if they are significant to the story as a whole. Maybe you have expert and novice users, maybe the design is inaccessible, or maybe some of the participants were PC users who kept scrolling the wrong direction on your Mac. Regardless of the choices you make, keep a record of those decisions to bolster the credibility of your conclusions, especially for qualitative research. For more information on analysis, visit the Gaining insight page at https://pages.github.ibm.com/reops/ux-research/research-practice-playbook/insight.
+
+
+Conducting research: Data privacy: 
+
+Before you collect data, you must plan your data privacy strategy. How will you protect participant identities? Where will data be stored? What personally-identifying information do you actually need? The sections below provide information to help you answer these questions for your study.
+
+Data privacy: Managing participant information:
+IBM considers personal information (PI) to be any information relating to an identified or identifiable natural person. PI is information that can be used on its own or combined with other information to identify, contact, or locate a single person, or to identify an individual in context. 
+- PI is information that can be but is not limited to — name, educational background, age, gender, company name, title, nationality, picture, video (of face), voice (audio), address, specific interview content (particular projects, particular products).
+- If the combination of data elements is sufficient to make it possible to identify an individual, the data should be treated as PI (for example, job title, manager’s name, band).
+- Videos and photos showing an interviewee’s face, and audio recordings are considered PI because the face or voice could be recognized.
+When collecting PI the individual needs to actively consent that PI can be collected, stored and processed. Additional guidance on legal consent can be found on the User Engagement Hub, but legal consent is not enough. You must get informed consent (https://pages.github.ibm.com/reops/ux-research/research-practice-playbook/recruit#collecting-data-in-moderated-sessions).
+
+Data privacy: Personal information (PI) collection:
+While conducting user research we collect participants’ personal information (PI) in notes, audio, video, and some survey questions. It is the responsibility of the study owner and (when applicable) the moderator to ensure that the participants’ personal data rights are respected and that all data is stored legally and securely.
+Consider whether your study requires PI before you collect it. The single best way to prevent leaking PI is to not collect that data to begin with. The second best method is to compartmentalize, explained next.
+We recommend keeping PI separate from your study data either during collection or storage. During data collection, you might create two linked surveys, where a numeric participant ID is passed between the two. Linking surveys may be useful when you are seeking potential interviewees for a follow-up to your survey. If you are collecting PI for reasons which do not necessitate connecting it to the participants’ data, for example, to incentivize participation via raffle, you can simply redirect to the second survey at the end of the first without any additional configuration.
+
+Data privacy: Data subject rights and handling data access requests:
+1. Participants have the right to erasure or restriction of their personal data in case this data is no longer necessary in relation for the purpose it was collected- for or in case they have withdrawn their consent. They also have the right to request access, correction of their data, and to object the processing of their PI.
+2. Participants have the right to receive the personal data they have provided to IBM in a structured, commonly used machine-readable format or to request to transmission of this data by IBM to another controller.
+3. Participants have the right to lodge a complaint with IBM’s supervisory authority in case they consider that the processing of their personal data infringes the applicable data protection laws.
+
+We need to respond to requests from data subjects within 30 days. More information on data access requests can be found at Privacy@IBM.
+
+Data privacy: Anonymization
+When sharing research, anonymize personal information (PI). PI is any information relating to an identified or identifiable natural person (can be, but not limited to: name, educational background, age, gender, company name, job position, nationality, picture, video (of face), voice (audio), address, very specific interview content (particular projects, particular products)). Anonymization occurs when PI is aggregated or de-identified so that it cannot be attributable to an individual. This data is no longer considered PI.
+
+
+Replacing the name alone is not anonymization, you have to encrypt or remove everything that could reveal the interviewee’s identity.
+- Audio, videos and photos showing a participant’s face are always considered PI and cannot be anonymized
+- Screen shots and recordings where no user information is visible is anonymized data
+- Audio recordings need to be transcribed and personal data need to be removed
+- Every bit of personally identifiable information that would make it possible to identify the identity of the participant (e.g. combination of education, skills, company, role etc.) needs to be removed
+
+Remove personally identifiable information from transcripts, analysis protocols, presentations, etc. as early as possible.
+
+Aggregate data so that it is not possible any longer to say which comment or aspect was coming from which participant. Data collected relating to education, skills, company, role, and the metadata collected on the participant (IP address, location, etc.) must be removed from the dataset in order to properly anonymize it. The data is anonymized if even you as the researcher are not able to tell anymore from whom the comments came. There is no time limit for storing anonymized data.
+
+In most cases, PI data must be anonymized or deleted after 24 months. The start date for counting the 24 months is the date when the consent for recording was accepted.
+
+Data privacy: Data storage:
+
+Box has the ability to restrict access, find content by date and auto-delete. Some best practices when using Box to store UX Research data include:
+
+1. Keep the PI in one place with limited access — need to know only.
+- Keep the number of people who have access to the raw research data (transcripts, recordings, pictures, contact information) to a minimum.
+- Share only with people directly involved in the research.
+- Anonymize research findings whenever possible.
+
+2. Set the auto-delete function in Box:
+- Click the More Options button for the file and select More Actions > Set Expiration.
+- Check off the box to Auto-delete this item on a selected date and use the box to select the appropriate date for deletion.
+- Click Save to save your changes.
+
+3. Retroactively find content to be deleted by using the advanced search function of the search box:
+- Owner name(s)
+- File type
+- Custom date range
+
+Conducting research: Unmoderated studies:
+
+Conducting research: Unmoderated studies: Preparing for the study:
+Gather data that reflect honest behaviors and reactions. In surveys and unmoderated studies, question wording, among other details, is vital to producing valid findings. Asking free-response questions in a survey will reduce the quality of the data in part because it inhibits “probing” or follow-up questions designed to gain context.
+
+Be sure to keep your questions consistent throughout a study. You may find that the questions and tasks you write need to be edited for clarity. To avoid making those changes while actively conducting the study, run a pilot test. After you decide on the wording, do not alter your questions and task prompts to preserve the quality of your data.
+
+An unmoderated study, such as an unmoderated usability study, will require the same prep as a moderated study. Refer to the Preparing for sessions section to set up your study and “Collecting data in moderated session” resource, below, for more information.
+
+Unmoderated studies: Preparing for the study: Concurrent screening techniques:
+
+During data collection, attention checks (e.g., “For this next question, choose the fourth answer option.”) may prove useful. These are most appropriate in longer surveys, where they can help identify participants who are not reading questions or are randomly responding; see the survey design template for more information on surveys. Responses to such questions can be used to manually screen unfit participants so as to improve the quality of your data (and therefore your analyses).
+
+Unmoderated studies: Preparing for the study: Verifying participation:
+
+Depending on whether your study is hosted on the same platform from which you’ve recruited participants, you may need to verify which participants have actually completed the study. For unmoderated studies, this may be easy to determine, as you may have chosen to record screens and camera feeds. For surveys and studies wherein participant identity may be obscured, it can be helpful to introduce a “proof” requirement. For example, you could:
+
+Create a single passkey which is shown on the final page of the survey or after the final task.
+Generate a passkey or random string at the end of each survey or study and store the value.
+Instruct participants to send that value to you in order to receive payment. Often a simple generated passkey that is shown to all participants is all you will need. Having randomly generated keys may be more useful if you need to tie a survey to extra demographic information from a participant’s profile or connect it to a prior interview with them.
+
+Unmoderated studies: Collecting data in unmoderated sessions:
+Planning a study includes planning how you will collect data. For quantitative research, data may be stored in a database and accessible using some tool (such as Amplitude), or they may need to be solicited from participants (that is, using a survey; view our survey design template for more guidance). For more information on collecting qualitative data and other forms of quantitative data, see the section on taking notes and capturing data, below.
+
+In the case of surveys, the majority of responses will come within 1-2 days of launch. During the actual data collection phase, there is not much to do as a researcher. You can use this time to manually screen responses using the rules mentioned above, perfect your data analysis strategy, or catch up on other tasks.
+
+The data collection phase of unmoderated studies, such as unmoderated usability tests, is also fairly hands-off; however, it would behoove you to start any observational or qualitative analysis as the data come in.
+
+Data analysis is covered in depth on the Gaining Insight page at https://pages.github.ibm.com/reops/ux-research/research-practice-playbook/insight.
+
+Conducting research: Moderated studies
+
+Conducting research in moderated studies consists in four steps:
+1. Preparing for sessions (Schedule moderated sessions)
+2. Collecting data in moderated sessions (get informed consent, prepare to be comfortably uncomfortable, ask good questions, taking notes and capturing data)
+3. Wrapping up a session
+4: Debriefing
+
+Moderated studies: Preparing for sessions: Schedule moderated sessions:
+
+You can start scheduling as soon as you have your first participant recruited. A few things to have ready as you’re scheduling:
+
+1. How long are your sessions? Typically sessions run from 30-90 minutes.
+2. What days are you planning to hold sessions? Try to offer a variety of days and to avoid scheduling too many in one day.
+3. Who really needs to attend a session? Ideally at least one person from your 3-in-a-box team should attend the session. Limit the number of attendees (the moderater plus 1-2 people) to avoid overwhelming your participant.
+4. What time zones are involved? Your session times may need to be flexible, given our teams and users are distributed around the world. Try to prioritize the participant’s timezone if possible.
+
+Important: Run a Pilot test to help inform how long your session will take.
+
+Try to provide buffer time in between sessions — a suggestion is 20-30 minutes to include debriefing time with the team (see Debriefing section) and a short break. With the session itself and the post-session debrief, consider limiting the number of sessions per day as is appropriate for you, specifically, and in a way that allows some time in-between sessions.
+
+Webex is the approved tool for video conferencing. To protect your personal Webex room, schedule a Webex meeting at ibm.webex.com. Schedule the meeting in Webex first in order to get and share the meeting link and password, and you can update the meeting time and details afterwards.
+
+Moderated studies: Collecting data in moderated sessions: Get informed consent:
+
+Consent is critically important to research. Not only is this required by law in some places, it also helps ensure people continue to be interested in participating in research.
+
+- To give their consent, a person must understand (1) what activities they will do, (2) the extents of their participation (how long am I here? will there be a follow up?), (3) why the research is being conducted, and (4) what you will do to protect their privacy.
+- Describe (without jargon) what will happen in the study and what it is about without exposing what you hope to learn.
+- If you are paying participants, also explain when they will be paid and what on what conditions that payment is predicated (for example, completion of a proportion of total tasks).
+
+You need to ask for consent to record sessions.
+
+- You need to verbally ask for consent before you start recording, written consent is not required if a User Engagement Agreement is in place, see Recruiting for more information. When you start recording, it is good to repeat the final part of the consent question to allow you to capture on your recording the participant giving their consent.
+- Inform the participant that the recording will be kept confidential, and every effort will be made to ensure their responses cannot be traced back to them, personally.
+- Some participants will ask, “what will the recording be used for?” You should answer honestly; the answer might be, “the recording will be analyzed to make sure we represent your thoughts clearly. It may be shown to our team members but will remain internal.”
+
+Collecting data in moderated sessions: Prepare to be comfortably uncomfortable:
+
+During evaluative studies, moderators need to be comfortable watching their participants struggle. You may want to jump in, but it’s important to see where users are having difficulty. If you worry about seeming rude, start your session with an explanation of what the participant can expect from you. If you will only intervene after a certain point, or if you will only answer certain questions, make that clear up front.
+
+Pause and allow for silence before asking the next question. Often times people are thinking and will say more if you let them.
+
+- Count in your head, for example, to three, before asking your next question.
+- Use probing questions. These are indispensable, especially if the “pregnant pause” (where an extended period of silence is allowed to exist by one person so as to encourage the other/s to continue speaking) is not your style.
+
+Collecting data in moderated sessions: Ask good questions:
+
+Keep all of your questions open and only provide example answers as a last resort.
+
+- Ask your questions in such a way that they cannot be answered with a “yes” or a “no”. If you do ask a closed question and only get “yes” or “no” or “it depends” ask them to expand on their answer or ask a probing question.
+- You may get asked to explain what you mean, which you should either answer by restating the question slightly differently or by turning the question on them (“What do you think it means?”).
+- Ask one question at a time. If you have a multi-part question, ask the first question, then follow-up with the sub-questions.
+
+If in doubt, stick to the discussion guide script.
+
+- You can have a structured interview and still be a good researcher. You put a lot of work into creating your discussion guide, so use it! It will get you the answers you need.
+
+During moderated studies, ask a lot of questions and don’t fear a follow up question.
+
+- Bring a “beginner’s mindset” when asking questions. If you don’t know a term or an acronym, ask for a definition. If you don’t fully understand an example, or if the participant starts an example but doesn’t immediately follow through, ask, “tell me more about [what they just said],” or, “what do you mean by that?”.
+Stay neutral and non-judgmental. Encourage participants by thanking them for their answers without indicating your reaction.
+
+Collecting data in moderated sessions: Taking notes and capturing data
+
+Before you can collect data, you need a place for that data to be stored. In qualitative and moderated quantitative research, data capture tools have many names: you might use an observation matrix, data logger, or field notes. We’ll refer to this as a data logger for this guide.
+
+You might combine your data logger and discussion guide. For example, each question in the guide might be written on a different table row with an adjacent column used for taking notes. This is the format of the Moderated discussion guide template we’ve provided in the resources, below. Consider having a note-taker capture notes in the data logger during moderated sessions. The more structure you provide to your note-taker, such as through a data logger, the easier it will be to synthesize the notes.
+
+Note-takers, people who join a study session specfically to take notes, make it easier to capture the first thoughts and ideas of interviewee and leave you more time (and brain power) to process what is said and ask follow-up questions. Moreover, it always helps to have a second person, who was also in the interview, with whom to discuss the findings afterwards in a debrief.
+
+Moderated studies: Wrapping up a session:
+
+Before you end a session, encourage your participant to ask questions or expand on anything they feel wasn’t covered in your discussion. This is the time to tell them any next steps, ask if they’d be open to having a follow-up session or participate in future studies, and share any additional information about the purpose of the study that you withheld at the beginning of the session.
+
+Moderated studies: Debriefing:
+
+Once an interview is complete, it’s important to grab the observations fresh out of the study. Debriefs cover what happened in the interview session, before you derive any meaning or synthesize the interview. Do debriefs immediately after the an interview when possible. Schedule 10-15 minutes so you can jot down insights or interesting findings immediately. We encourage teams to invite all colleagues invited to the interview to be a part of the debrief process; however, a debrief can be done without involving other people.
+
+You can do this in a formally or informally. Use a Mural Feedback grid or Post-interview / Post-design review debrief template to quickly get everyone to jot takeaways down, or simply use Box note. These are common questions used to facilitate these conversations:
+1. What were your takeaways?
+2. Did you hear anything surprising? 
+3. What seems like a pattern across sessions?
+4. Is there anything unexpected?
+5. Anything in the outline that needs to change?
+6. This is not a substitute for synthesis. Retain your debriefs for your synthesis process. 
+
+Conducting research: Organizing your data:
+
+Depending on the tool you use to moderate the session, conduct the survey, or otherwise collect data, the data will be stored somewhere. In service of producing quality results in qualitative research, traceability is important.
+
+Organizing your data: Interviews and user testing:
+You can download the session recording with the transcript. To get transcripts via WebEx, see the resources below. Or, you may upload your videos to another approved tool, such as EnjoyHQ, for higher-quality transcripts, which you may then copy into a static document in a Box folder or analyze in place.
+
+- Save your session recordings and transcripts in a protected Box folder to streamline access control and data privacy compliance.
+- Recordings and verbatim transcripts should be kept in a folder separate from the research plan, deliverables, and notes.
+
+
+Organizing your data: All participant-based studies:
+For more complete guidance on safely storing your data, refer to the Data privacy section at https://pages.github.ibm.com/reops/ux-research/research-practice-playbook/recruit#data-privacy.
+
+- Limit access to raw data to only those who need to know. Share raw data only with people directly involved in the research
+- Protect participant privacy. A good practice in qualitative research is to refer to participants only by their first name. A great practice is to create a key and use participant numbers or pseudonyms. The key should be kept in a location separate from your notes. For instance, you might keep the key with the raw data.
+
+After collecting all of your data, you are ready to analyze and gain insight.
+
+Conducting research: Templates and examples:
+- Interview notes template (https://ibm.box.com/s/10cqi0evj7sqrxdnl4tf9238p7vjw5av)
+- Moderated discussion guide template (https://ibm.box.com/s/j9psso0y6qpmlc23mwohit4rcmb7hjqh)
+- Usability testing discussion guide (https://ibm.box.com/s/navfccf1z9jfi7rzlrj4t6pvwxaafp5s)
+- Survey design template (for more guidance) (https://ibm.box.com/s/gahya8tscopm9qtkre60tziaf348ji4h)
+- Interview health check (https://ibm.box.com/s/p6u0yvwwf4kownbsi2bmk2lotpmrdoch)
+- Sample session guidance (for note-takers and observers) (https://ibm.box.com/s/kxw342zlz3roeux44hfmjj6bbb8u55ci)
+- Debrief template (Box Note example) (https://ibm.box.com/s/412tktjeuhnfkw0qiwujtfyvvtd6j0dq)
+- Debrief template (Slack example) (https://ibm.box.com/s/8v1r1d8r6krycwmzp9wct5948baga2oj)
+- Debrief template (Mural template) (https://app.mural.co/invitation/mural/omfdesign6628/1628861396822?sender=dianaisazashelton&key=2b505d7b-661c-43a0-aac2-bf5617dafb4f)
+- Debrief template (Mini-summary, spreadsheet) (https://ibm.box.com/s/ruuc9gir94btj0xr00gpk2pcxiz47pby)
+- List and explanation of metrics for user-based evaluations (e.g., usability tests) (https://ibm.box.com/s/vytcddrfuyzy04toj8hx9zxkfeo2eqj3)
+- User Engagement Hub: For email templates including welcome email, invite email; for legal consent forms. (https://sponsor-user-program.wdc1a.cirrus.ibm.com/learn/legal)
+- Survey research 101 (PPT) (https://ibm.box.com/s/15kr0xbrdfm8ggergabvu4jxmvclpy0b)
+- Effective surveys (blog) (https://kaitlyndoesresearch.medium.com/effective-survey-research-54108cc3c8a6)
+- IBM Cloud Amplitude Documentation (including variable descriptions, how to get access, what Amplitude can/cannot do, and more) (https://pages.github.ibm.com/Bluemix/platform-analytics/tools/amplitude/)
+- Other education resources (including safeguarding and research with people with disabilities) (https://ibm.box.com/s/3jddfcc6p8lzt77xqitasoanzn0lgtph)
+
+Conducting research: Tools:
+The following tools are commonly used for conducting research. You’ll find enablement guides and the forms to request access on the Tool and resources page. If not listed below, please check with your team to find out what tools are being used for research.
+
+- Enjoy HQ (https://app.enjoyhq.com/users/sign_in)
+- User Zoom (https://go.userzoom.com/login)
+- Alchemer (https://www.alchemer.com/account-logins/)
+- Amplitude (https://analytics.amplitude.com/login/32847?next=%2Fhome)
+- Medallia (https://help.medallia.com/login?locale=us)
+- Webex transcripts (https://www.webex.com/)
+- Mural (https://www.mural.co/)
+- Box Notes (https://www.box.com/notes)
+- Microsoft Excel (https://www.microsoft.com/en-us/microsoft-365/excel)
+- Airtable (https://airtable.com/)
+- Microsoft Forms (Consulting only) (https://www.microsoft.com/en-us/microsoft-365/online-surveys-polls-quizzes)

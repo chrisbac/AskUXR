@@ -1,0 +1,53 @@
+EnjoyHQ
+EnjoyHQ is a workspace and repository for qualitative user research data that centralizes and aggregates collected data in one place.
+
+
+EnjoyHQ Overview
+EnjoyHQ is used primarily by researchers to aggregate, transcribe, code, analyze, and store raw research data. Import audio and video recordings, notes, articles, and PDFs, among other formats, to more easily work with participant data. All contents are transcribed and turned into text. Perform data coding, clustering and insights creation to uncover patterns, build connections between learnings and write up “stories” to capture insights. Think of stories as mini-blogs. Share key findings with stakeholders all through the browser. When sharing, you can hide participant data to ensure PII is restricted. By storing feedback data in EnjoyHQ, researchers can quickly access data from previous research studies, build on the knowledge of their users over time and protect their users personal information (PI). EnjoyHQ promises to consolidate the need for multiple research tools our teams use to conduct research end to end: transcription, data coding, repository, and analysis.
+
+
+Getting started with EnjoyHQ
+Step 1: Complete the IBM Privacy Foundations Badge on https://yourlearning.ibm.com/activity/PLAN-2E082CB8F4C9. You will need to provide proof of completion when you request access to EnjoyHQ.
+Step 2: After completing your badge, request access through the EnjoyHQ access form on https://airtable.com/shrGpjo5o6cFvuCHQ and add the link to your certificate of completion using Firefox or Chrome. Instructions to locate the certificate of completion link: 1) Go to Your Learning > learning > your completions. Click on “learn more” on the page. This will take you back to the breakdown of the course journey. 2) On the “actions” dropdown, select “view completion certificate”. 3) In this new tab of your completion certificate, click “share” and copy the URL provided. 4) Paste your completion certificate URL into the comments section of the EnjoyHQ access form. 5) Submit request. Need help locating the certificate? Follow along with this walkthrough on https://ibm.box.com/s/pg8206q2x6vprapwxnh60v2f23ub3648
+Step 3: EnjoyHQ is single sign-on enabled. Use this link on https://app.enjoyhq.com/users/sign_in to access the account and log in with your w3ID and password to authenticate.
+Step 4: Explore these resources to get started: Key concepts in EnjoyHQ on https://documentation.getenjoyhq.com/article/59mkhveefq-organising-your-data ; Creating projects on https://documentation.getenjoyhq.com/article/8hr63t62dp-research-projects-new ; Create a form on https://help.alchemer.com/help/create-a-form ; IBM Software - getting started on https://ibm.box.com/s/m1btojwi87lu9eo4mu3yar313m1sztga ; How EnjoyHQ integrates with User Insights Hub on https://ibm.box.com/s/m1btojwi87lu9eo4mu3yar313m1sztga .
+
+
+EnjoyHQ best practices: 
+When do I use EnjoyHQ? As a researcher, you will want to use EnjoyHQ for working with data, especially unstructured data. Use it for analyzing generative research and qualitative research studies typically gathered via the following methods: Semi-structured interviews, In depth interviews, Focus groups, Observations, Diary studies, Case studies.
+
+
+EnjoyHQ best practices: 
+How do I publish my EnjoyHQ project in User Insights Hub? Projects completed in EnjoyHQ can be published to the User Insights Hub (UIH), the IBM internal UX Research library. Contact your EnjoyHQ focal or research manager for more details.
+
+
+EnjoyHQ best practices: 
+How do I share my findings? During the research process, researchers can collaborate with UX designers, product managers and other stakeholders (research plans, stories, summaries). They can comment and view shared research content with read-only access.
+
+
+EnjoyHQ best practices: 
+How do I use labels and tags? You can use consistent labels and tags to connect participants with jobs, personas, and all associated artifacts. EnjoyHQ labels match those in Airtable. Labels are used to qualify your projects: Division (Portfolio), Subdivision (Sub-portfolio), Product (Offering), Method, Archetype, and Universal experiences. You will use tags to code snippets of data. Similar to what you will do when extracting data from transcripts into post-it notes or a spread sheet. In EnjoyHQ, you can highlight any text and tag it. For example, you may want to highlight a quote from an interview transcript and flag it as ‘positive feedback’ or ‘usability issue’ or ‘pain point’.
+
+
+learn more about EnjoyHQ best practices: 
+Categories, tags and labels on https://ibm.box.com/s/m1btojwi87lu9eo4mu3yar313m1sztga
+EnjoyHQ + Airtable integration on https://ibm.box.com/s/1r42cb3mb2lbtnfrd7dj74uwxytrfe8r
+
+
+EnjoyHQ learning and support:
+In this section you will find starting points for understanding EnjoyHQ. 
+
+
+Videos and documentation about EnjoyHQ:
+EnjoyHQ demo highlights (YouTube): https://www.youtube.com/watch?v=SPgKmSg6BhQ
+Research projects in EnjoyHQ: https://www.youtube.com/watch?v=y_EghFO42BU
+How to create notes: https://documentation.getenjoyhq.com/article/1w1uygltkk-creating-notes-in-enjoy-hq
+Classifying or coding data: https://documentation.getenjoyhq.com/article/2apggf8jz5-analyzing-your-customer-feedback-data
+Sharing projects: https://documentation.getenjoyhq.com/article/2t182msnli-sharing-your-findings#sharing_projects
+Quantify feedback with dashboards: https://documentation.getenjoyhq.com/article/y4wow2dips-reports-and-dashboards
+
+
+EnjoyHQ learning and support:
+Ready to dive into more details? Check out these demos given to our team by the EnjoyHQ experts on https://ibm.box.com/s/wdb3goznhhe0cfbpnwvmmuhe0za9uk04.
+EnjoyHQ questions: #ask-repos Slack channel for questions
+EnjoyHQ Focals by division: Data and AI (Analytics): Leah Yoon and Natalia Russi-Vigoya, Security: Irena Martinez.

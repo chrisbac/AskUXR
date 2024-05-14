@@ -1,0 +1,30 @@
+Research Leadership Team
+
+This group of research leaders from across the company are committed to guiding and growing the discipline of UX Research. They come together regularly to share best practices, make connections, solve problems, and join efforts where possible.
+
+IBM UX Research Senior Leadership:
+- Karel Vredenburg (VP of IBM UX Research)
+
+UX Research Leadership for Software:
+- John H Bailey (Head of UX Research)
+- Gord Davison (UXR Insights and Engagement)
+
+UX Research Leadership for Consulting:
+- Jen Hatfield (Consulting iX)
+- Jon Lowry (Consulting Internal Innovation)
+
+UX Research Leadership for Corporate:
+- Shaun Long (CIO)
+- Kitti Horvath (Partner Experience)
+- Sarah Miller (IBM Research)
+
+UX Research Leadership for Infrastructure:
+- Elizabeth Quigley (Cloud)
+- Brenton Elmore (Storage)
+- Felix Portnoy (Power)
+- Herman Colquhoun (Quantum)
+- Lauren Sands (Quantum)
+- Kirsten Brunner McDonald (IBM Z)
+
+UX Research Leadership for Red Hat:
+- Leslie Hinson

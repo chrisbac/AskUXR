@@ -1,0 +1,22 @@
+apiVersion: cirrus.ibm.com/v1alpha1
+kind: Application
+metadata:
+  name: askuxr
+spec:
+  livenessProbe:
+    httpGet:
+      path: /healthz
+      port: 8501
+    periodSeconds: 30
+    timeoutSeconds: 30
+  readinessProbe:
+    httpGet:
+      path: /healthz
+      port: 8501
+    periodSeconds: 30
+    timeoutSeconds: 30
+  replicas: 2
+  quota: q2gb
+  envFrom:
+    - secretRef:
+        name: askuxr-creds

@@ -1,0 +1,78 @@
+Respondent.io
+Respondent is a recruiting platform designed to help researchers find high-quality, verified business professionals for remote and in-person research studies, surveys, and almost any type of study. 
+
+
+Respondent.io Overview: 
+Respondent is a self-service tool which allows you to recruit, schedule, and pay participants all in one place without the need for a recruiter. The participants in this panel are global and come from a variety of industries.
+
+
+UX researchers use Respondent for recruiting a variety of technical roles and domains. This panel is useful when you want to target participants who use competitor products. You can source by title, industry, skills and other characteristics and you can create a screener to more specifically find participants within your product domain. This is an alternative or additional sourcing option to User Interviews recruiting panel.
+
+
+Getting started with Respondent.io
+Step 1: Fill out the tool access request form. Please complete the form on https://airtable.com/shrx4AkfUCbhLxNd1 for requests within Software. You’ll receive an email invite once your request is processed. Not in IBM Software+Cloud? Contact your manager for team-specific guidance.
+Step 2: Log in on https://app.respondent.io/login. This account is not single sign-on enabled so you’ll need to create an account with your IBM email address and a password. Note: Do not sign-up with Respondent as a participant. Use of your IBM email address for this purpose will prevent you from being able to have an account created to run projects and studies.
+Step 3: Check out these resources to get started:
+How to set up a project in Respondent: https://help.respondent.io/en/articles/5485809-how-to-set-up-a-project-on-respondent
+How to set up your research project details: https://help.respondent.io/en/articles/5486508-how-to-set-up-your-research-project-details
+Creating a project: https://help.respondent.io/en/collections/3560152-creating-a-project
+Managing your research participants: https://help.respondent.io/en/articles/5461983-managing-your-research-participants
+
+
+Respondent.io best practices:
+How Respondent works: Researchers create “projects” on the platform, which initiates a recruitment campaign. Interested participants then take the qualification survey to apply to participate in the study. The platform leverages its existing respondents and recruits additional ones with social media advertising (mostly LinkedIn). Researchers can also use their project link to increase exposure on other channels. Researchers are able to review respondent profiles (typically including LinkedIn or Facebook data) and screener responses before accepting or scheduling. After study sessions are completed, researchers verify completion on the platform and respondents then receive payment via PayPal.
+
+
+Respondent.io best practices:
+In summary: Create simple screening, creating a calendar, reviewing and invite respondents, use external Non-disclosure agreements (NDAs), manage recruitment target cap, process the payment right away, don’t collect participant PII--contact them via “messages”.
+
+
+Respondent.io best practices:
+Screening respondents: It is recommended keeping the screener simple since you’ll be able to see LinkedIn-verified information about the respondents (i.e., their job title, history, etc.). Think of this screener as a “soft screener”, you will see all of the responses. Nobody will get disqualified automatically since there is no routing or branching logic. It’s a short survey so you can hand select the best-qualified candidates. Keeping most of the questions open-ended and unrelated to people’s LinkedIn information is helpful.
+
+
+Respondent.io best practices:
+Creating a calendar: After you begin your recruitment, you can create a “calendar” which denotes the time slots for your activity. You can create and edit this at any point. It’s best to have it updated and ready before you invite respondents to a study so they’ll be able to easily schedule themselves. Give people a few days advanced notice if you want to ensure best turnout. To avoid snags, make sure your calendar is updated before inviting respondents and that you've provided session details if you're conducting a moderated study.
+
+
+Respondent.io best practices:
+Reviewing and inviting respondents: Review the respondents who have filled out your screener survey. You can invite the participants whom you have identified as qualified for your study. They’ll be able to sign up for time slots within the calendar you’ve created. Pro-tip: You can invite anyone to your study, including "disqualified" respondents, by marking them as "qualified" manually.
+
+
+Respondent.io best practices:
+Non-disclosure agreements (NDAs):
+The preferred way to collect NDA is to use the survey version of the NDA in the “external link” section of Respondent.io. Or, you can provide it at the beginning of a moderated session, while you brief them on the study, confidentiality, freedom to withdraw, etc. Either way you choose, please confirm that your participants are agreeing to the form, by viewing the Alchemer responses. Although Respondent.io has a feature for attaching NDAs to the participant instructions, you will not receive a signed copy if you upload a PDF version to Respondent.io.
+
+Respondent.io best practices:
+Recruitment target cap:
+Respondent.io puts a cap on the number of recruits they will source for you. They turn off recruiting once you’ve achieved 2x the requested participants for the study. You can manually qualify participants who are a good fit, rather than relying on the screener which can allow undesirable recruits, by putting a question at the end of your screener that disqualifies everyone. This will allow you to circumvent the recruitment cap while still finding quality participants. If you use this workaround, please be ethical (for the sake of the respondents who apply to your study) and stop recruiting for your project once it is inactive. It's a good practice to avoid asking for more respondents than you'll need. You will likely have a surplus of responses to your screener and will be able to invite as many as you'd like, and Respondent.io will bill you at the end for the extras. However, you will be billed up-front for the number of respondents you request.
+
+
+Respondent.io best practices:
+Paying incentives:
+The payments are processed to the participants when you mark them as “attended.” After respondents have attended, the best practice is to login in the platform and process the payment right away so they can receive it quickly. You can pay after each participant or after several. Please, avoid tipping in the tool.
+
+
+Respondent.io best practices:
+Collecting a participant's personal information:
+Collecting any participant’s Personal Identifiable Information (PII) is prohibited in Respondent. If you need to contact a participant, you can contact them via “messages” inside your project dashboard. Participants are notified via email and text message. Here are common reasons you would contact a participant:
+Clarify an answer to a screener question; Confirm some details about a scheduled meeting; Provide any homework or an NDA prior to starting a project.
+Visit "Can I collect participants personal information" article on https://help.respondent.io/en/articles/5486175-collecting-a-participant-s-personal-identifiable-information-pii
+
+
+Respondent.io Learning and support: Additional resources to help you get the most out of Respondent.
+Respondent FAQs: https://www.respondent.io/faq
+Respondent help center - researcher: https://help.respondent.io/en/collections/3078284-researcher
+Creating a screener survey: https://help.respondent.io/en/articles/5672495-creating-a-screener-survey
+Effective communication: https://help.respondent.io/en/articles/6070593-communication-101
+How to publish your project: https://help.respondent.io/en/articles/5482475-project-summary-page-publishing-your-project
+Recruiting for unmoderated studies: https://help.respondent.io/en/articles/6637229-unmoderated-methodology-workflow
+Industry professionals vs. general population recruits: https://help.respondent.io/en/articles/5486300-industry-professionals-vs-general-population
+Tips on writing a great recruiting pitch: https://help.respondent.io/en/articles/5485770-tips-on-writing-a-great-project-name-and-respondent-pitch
+
+
+Reach out to the Respondent account manager for account for help with:
+Q&A about the platform, specific project, overall best practices; Screener reviews and screener programming; Project reviews and feasibility; Project activation (helpful for new users looking to launch their first project); Introduction to the platform.
+
+
+Questions about the Respondent.io platform? Get a quick response with the in-app chat.
